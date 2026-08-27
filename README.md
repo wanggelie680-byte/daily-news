@@ -48,6 +48,12 @@ git remote add origin https://github.com/你的用户名/daily-news.git
 git push -u origin main
 ```
 
+也可以直接运行一键发布脚本（只需填一次仓库地址）：
+
+```powershell
+.\deploy.ps1 https://github.com/你的用户名/daily-news.git
+```
+
 3. 打开仓库 `Settings -> Pages`，Source 选择 `Deploy from a branch`，Branch 选择 `main`、目录选择 `/docs`。
 4. 在 `Settings -> Secrets and variables -> Actions` 添加 `DEEPSEEK_API_KEY`。
 5. 等待几分钟，公网网址就是 `https://你的用户名.github.io/daily-news/`，其他电脑打开即可访问。
