@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T22:41:49.227195+08:00",
+  "generated_at": "2026-08-27T23:29:42.811842+08:00",
   "site_title": "每日热点简报",
   "site_tagline": "自动聚合社会热点、时事政策、世界格局与世界经济",
   "feed_names": [
@@ -23,24 +23,24 @@
     "香港文汇网"
   ],
   "hero": {
-    "id": "31493700e91f",
-    "title": "福建转移撤离海上作业人员超4000人",
-    "summary": "中新网福州8月27日电 (记者 龙敏)福建海事局27日通报，目前，福建沿海118个水工项目全部停工，泉州以北57条客渡运航线停航，转移撤离海上作业人员超4000人。",
-    "detail": "福建转移撤离海上作业人员超4000人 中新网福州8月27日电 (记者 龙敏)福建海事局27日通报，目前，福建沿海118个水工项目全部停工，泉州以北57条客渡运航线停航，转移撤离海上作业人员超4000人。 今年第18号台风“沙德尔”今天16时中心距离浙闽交界东偏北方向约380公里，中心附近最大风力14级。福建省气象台预计，“沙德尔”将以每小时10至15公里的速度向西偏南方向移动，于28日凌晨至中午在浙江三门到福建霞浦一带沿海登陆。 福建海事局于27日11时启动防台风一级应急响应，进一步加强临灾防御工作，福建海上交通“关、停、撤、转”已全部落地。",
+    "id": "3aaebec0e81c",
+    "title": "中国官方：力争“十五五”时期地理信息产业年均总产值突破万亿元大关",
+    "summary": "中新社北京8月27日电 (记者 庞无忌)中国自然资源部地理信息管理司司长陈平27日在北京表示，力争“十五五”时期地理信息产业年均总产值突破万亿元(人民币，下同)大关。",
+    "detail": "中国官方：力争“十五五”时期地理信息产业年均总产值突破万亿元大关 中新社北京8月27日电 (记者 庞无忌)中国自然资源部地理信息管理司司长陈平27日在北京表示，力争“十五五”时期地理信息产业年均总产值突破万亿元(人民币，下同)大关。 当日自然资源部举行8月份例行新闻发布会，陈平在此间透露，“十五五”时期测绘地理信息领域重点工作包括提升地理信息公共服务效能。持续迭代升级天地图服务性能，丰富天地图数据资源。",
     "tags": [
       "社会热点",
       "中新网滚动新闻"
     ],
     "importance": 2,
     "source_name": "中新网滚动新闻",
-    "source_url": "https://www.chinanews.com.cn/sh/2026/08-27/10685501.shtml",
-    "image_url": "assets/images/2026-08-27/31493700e91f_72b1b0d8.jpg",
-    "published_at": "2026-08-27T13:43:15+00:00",
-    "published_label": "58 分钟前",
+    "source_url": "https://www.chinanews.com.cn/cj/2026/08-27/10685520.shtml",
+    "image_url": "assets/images/2026-08-27/3aaebec0e81c_9218b6e4.jpg",
+    "published_at": "2026-08-27T14:59:08+00:00",
+    "published_label": "30 分钟前",
     "verification_count": 2,
     "verified_by": [
-      "中国基金报",
-      "中新网滚动新闻"
+      "中新网滚动新闻",
+      "光明网时政"
     ],
     "source_domain": "chinanews.com.cn",
     "category_id": "hot"
@@ -52,6 +52,29 @@
       "color": "#d92c20",
       "description": "民生、教育、医疗、社会事件",
       "events": [
+        {
+          "id": "3aaebec0e81c",
+          "title": "中国官方：力争“十五五”时期地理信息产业年均总产值突破万亿元大关",
+          "summary": "中新社北京8月27日电 (记者 庞无忌)中国自然资源部地理信息管理司司长陈平27日在北京表示，力争“十五五”时期地理信息产业年均总产值突破万亿元(人民币，下同)大关。",
+          "detail": "中国官方：力争“十五五”时期地理信息产业年均总产值突破万亿元大关 中新社北京8月27日电 (记者 庞无忌)中国自然资源部地理信息管理司司长陈平27日在北京表示，力争“十五五”时期地理信息产业年均总产值突破万亿元(人民币，下同)大关。 当日自然资源部举行8月份例行新闻发布会，陈平在此间透露，“十五五”时期测绘地理信息领域重点工作包括提升地理信息公共服务效能。持续迭代升级天地图服务性能，丰富天地图数据资源。",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/cj/2026/08-27/10685520.shtml",
+          "image_url": "assets/images/2026-08-27/3aaebec0e81c_9218b6e4.jpg",
+          "published_at": "2026-08-27T14:59:08+00:00",
+          "published_label": "30 分钟前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网滚动新闻",
+            "光明网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        },
         {
           "id": "31493700e91f",
           "title": "福建转移撤离海上作业人员超4000人",
@@ -66,35 +89,11 @@
           "source_url": "https://www.chinanews.com.cn/sh/2026/08-27/10685501.shtml",
           "image_url": "assets/images/2026-08-27/31493700e91f_72b1b0d8.jpg",
           "published_at": "2026-08-27T13:43:15+00:00",
-          "published_label": "58 分钟前",
+          "published_label": "1 小时前",
           "verification_count": 2,
           "verified_by": [
             "中国基金报",
             "中新网滚动新闻"
-          ],
-          "source_domain": "chinanews.com.cn",
-          "category_id": "hot"
-        },
-        {
-          "id": "f4f54905bb49",
-          "title": "平陆运河开展夜航全科目实测 复刻未来运河夜间运营场景",
-          "summary": "中新网南宁8月27日电(林洁琪)平陆运河集团27日介绍，平陆运河实船试验26日挺进钦州城区段和入海口段，并开展夜航全科目实测。至此，通航前实船试验所有科目全部完成。",
-          "detail": "平陆运河开展夜航全科目实测 复刻未来运河夜间运营场景 中新网南宁8月27日电(林洁琪)平陆运河集团27日介绍，平陆运河实船试验26日挺进钦州城区段和入海口段，并开展夜航全科目实测。至此，通航前实船试验所有科目全部完成。 当日，试验船队自青年枢纽下行驶入钦州城区段航道，航行至钦州水上综合服务区后停靠泊位，开展系缆力专项测试，现场采集停泊状态下系缆受力、船舶姿态、水位变化等关键数据，验证服务区泊位停靠条件，为后续船舶停靠、补给作业获取实测依据。完成服务区测试后，船队继续驶向入海口段，抵达平陆运河终点，完成航道掉头操纵后上行返航。",
-          "tags": [
-            "社会热点",
-            "中新网滚动新闻"
-          ],
-          "importance": 2,
-          "source_name": "中新网滚动新闻",
-          "source_url": "https://www.chinanews.com.cn/sh/2026/08-27/10685499.shtml",
-          "image_url": "assets/images/2026-08-27/f4f54905bb49_c3908369.jpeg",
-          "published_at": "2026-08-27T13:42:25+00:00",
-          "published_label": "59 分钟前",
-          "verification_count": 2,
-          "verified_by": [
-            "中新网滚动新闻",
-            "中新网社会",
-            "新华网时政"
           ],
           "source_domain": "chinanews.com.cn",
           "category_id": "hot"
@@ -121,11 +120,12 @@
           "source_url": "https://www.chinanews.com.cn/gn/2026/08-27/10685428.shtml",
           "image_url": "assets/images/2026-08-27/ad5872f0eb31_b37053ab.jpeg",
           "published_at": "2026-08-27T11:57:11+00:00",
-          "published_label": "2 小时前",
+          "published_label": "3 小时前",
           "verification_count": 4,
           "verified_by": [
             "IT之家",
             "中新网时政",
+            "中新网滚动新闻",
             "中新网财经",
             "人民网时政",
             "雷峰网"
@@ -147,7 +147,7 @@
           "source_url": "https://www.chinanews.com.cn/gn/2026/08-27/10685415.shtml",
           "image_url": "assets/images/2026-08-27/bb061458f02a_ed77db8d.jpg",
           "published_at": "2026-08-27T11:29:17+00:00",
-          "published_label": "3 小时前",
+          "published_label": "4 小时前",
           "verification_count": 3,
           "verified_by": [
             "中新网时政",
@@ -171,7 +171,7 @@
           "source_url": "https://politics.gmw.cn/2026-08/27/content_38968522.htm",
           "image_url": "assets/images/2026-08-27/d7408d9f2d04_72144f46.png",
           "published_at": "2026-08-27T12:00:00+00:00",
-          "published_label": "2 小时前",
+          "published_label": "3 小时前",
           "verification_count": 2,
           "verified_by": [
             "光明网时政",
@@ -225,7 +225,7 @@
           "source_url": "https://www.wenweipo.com/a/202608/27/AP6a8f9acae4b0c1e5002665ac.html",
           "image_url": "assets/images/2026-08-27/562f3a7b0708_43fcb47f.jpg",
           "published_at": "2026-08-27T12:00:00+00:00",
-          "published_label": "2 小时前",
+          "published_label": "3 小时前",
           "verification_count": 7,
           "verified_by": [
             "36氪",
@@ -242,30 +242,6 @@
           "category_id": "world"
         },
         {
-          "id": "777d6390c2d1",
-          "title": "人物：草间弥生将现代艺术升华为流行符号",
-          "summary": "【共同社8月27日电】波点图案的南瓜、花朵和少女们……。14日逝世的草间弥生不仅作为前卫艺术家蜚声国际，还将原本难懂的现代艺术升华为超越美术范畴、老少皆宜的流行符号，堪称凤毛麟角的…",
-          "detail": "【共同社8月27日电】波点图案的南瓜、花朵和少女们……。14日逝世的草间弥生不仅作为前卫艺术家蜚声国际，还将原本难懂的现代艺术升华为超越美术范畴、老少皆宜的流行符号，堪称凤毛麟角的存在。 她将童年时期的幻视、幻听等体验转化为创作能量，通过描绘无数波点和网状图案，表现了自我与世界融为一体的“无限”意象。 草间可谓日本现代艺术的代表人物，她的作品不仅深受美术爱好者的喜爱，还广受大众欢迎。无论是濑户内海直岛（香川县）上的《南瓜》造型，还是松本市美术馆（长野县）的《幻之华》，在公共场所陈列的草间作品也不在少数，当地也因为这些作品成了社交媒体（SNS）上的热门打卡地。",
-          "tags": [
-            "世界格局",
-            "共同社中文"
-          ],
-          "importance": 2,
-          "source_name": "共同社中文",
-          "source_url": "https://china.kyodonews.net/articles/-/14807",
-          "image_url": "assets/images/2026-08-27/777d6390c2d1_3b139d9d.jpg",
-          "published_at": "2026-08-27T06:41:00+00:00",
-          "published_label": "8 小时前",
-          "verification_count": 3,
-          "verified_by": [
-            "中新网国际",
-            "共同社中文",
-            "联合早报·国际"
-          ],
-          "source_domain": "china.kyodonews.net",
-          "category_id": "world"
-        },
-        {
           "id": "941947c6fca3",
           "title": "螞蟻國際參與香港監管機構GenA.I.沙盒++",
           "summary": "香港文匯報訊（記者 黎梓田）螞蟻國際旗下螞蟻銀行（香港）及普惠場景金融服務提供商Bettr獲選參與香港金融管理局（金管局）、證券及期貨事務監察委員會（證監會）、保險業監管局（保監局…",
@@ -279,7 +255,7 @@
           "source_url": "https://www.wenweipo.com/a/202608/27/AP6a902cf0e4b0c1e500267b85.html",
           "image_url": "assets/images/2026-08-27/941947c6fca3_18c491d4.jpg",
           "published_at": "2026-08-27T12:00:00+00:00",
-          "published_label": "2 小时前",
+          "published_label": "3 小时前",
           "verification_count": 3,
           "verified_by": [
             "IT之家",
@@ -303,13 +279,36 @@
           "source_url": "https://china.kyodonews.net/articles/-/14833",
           "image_url": "assets/images/2026-08-27/3e7eafe1033a_0e86ab48.jpg",
           "published_at": "2026-08-27T12:49:00+00:00",
-          "published_label": "1 小时前",
+          "published_label": "2 小时前",
           "verification_count": 2,
           "verified_by": [
             "中新网国际",
             "共同社中文"
           ],
           "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        },
+        {
+          "id": "a99e69861c0e",
+          "title": "九一一恐袭主谋将于2028年6月在美军事法庭受审",
+          "summary": "一名美国官员说，被指涉及2001年9月11日恐袭的主谋穆罕默德，将于2028年6月在美国军事法庭受审。",
+          "detail": "一名美国官员说，被指涉及2001年9月11日恐袭的主谋穆罕默德，将于2028年6月在美国军事法庭受审。 法新社报道，一名古巴关塔那摩湾美国军事法庭发言人星期四（8月27日）说，穆罕默德（Khalid Sheikh Mohammed）将从2028年6月5日起受审。他的审讯多次延期，一项原本可免除死刑的认罪协议也于去年被撤回。 穆罕默德于2003年在巴基斯坦被捕，随后被关押在美国中央情报局秘密监狱三年，2006年转送关塔那摩湾美国海军基地。关塔那摩湾军事基地曾关押约800名“反恐战争”囚犯，目前仅剩少数人。 穆罕默德曾称自己从头到尾策划了九一一袭击。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20260827-9586808",
+          "image_url": "assets/images/2026-08-27/a99e69861c0e_0b290c23.jpg",
+          "published_at": "2026-08-27T12:00:00+00:00",
+          "published_label": "3 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网国际",
+            "联合早报·国际"
+          ],
+          "source_domain": "zaobao.com.sg",
           "category_id": "world"
         },
         {
@@ -324,9 +323,9 @@
           "importance": 2,
           "source_name": "联合早报·国际",
           "source_url": "https://www.zaobao.com.sg/news/world/story20260827-9584681",
-          "image_url": "assets/images/2026-08-27/7f456b3eceef_de821faa.jpg",
+          "image_url": "assets/images/2026-08-27/7f456b3eceef_c35191ad.jpg",
           "published_at": "2026-08-27T12:00:00+00:00",
-          "published_label": "2 小时前",
+          "published_label": "3 小时前",
           "verification_count": 2,
           "verified_by": [
             "央视新闻",
@@ -336,26 +335,26 @@
           "category_id": "world"
         },
         {
-          "id": "6b1c8ce958b6",
-          "title": "美媒：特朗普政府拟再加征半导体关税",
-          "summary": "美国媒体引述消息人士报道，美国总统特朗普政府正在考虑对半导体实施新一轮全面关税。 美国新闻网站Politico引述八名匿名消息人士报道，新的关税提案可能对范围更广的科技产品征税，不…",
-          "detail": "美国媒体引述消息人士报道，美国总统特朗普政府正在考虑对半导体实施新一轮全面关税。 美国新闻网站Politico引述八名匿名消息人士报道，新的关税提案可能对范围更广的科技产品征税，不只针对微晶片，也可能涵盖使用晶片的产品，包括笔记本电脑、游戏机和数据中心服务器等。 报道称，美国商务部长卢特尼克倾向于采取一项机制，将外国企业获得关税减免资格与在美国投资晶片制造业挂钩，以提振本土生产。 延伸阅读 特朗普下令对多晶硅开征15%关税 设最低进口价 美国拟为多晶硅设价格下限并加征关税 与中国竞争 美国政府也在考虑为新关税设置分阶段实施期。不过，相关框架未来数周或数月仍可能大幅调整。",
+          "id": "d449f5a39ed8",
+          "title": "瑞萨电子在北京开设“物理AI”研发基地",
+          "summary": "【共同社8月27日电】半导体巨头瑞萨电子27日在中国北京开设了以人工智能（AI）自主驱动机器人的“物理AI”研发基地，希望通过深化与在人形机器人领域领先的中国企业合作，扩大零部件供…",
+          "detail": "【共同社8月27日电】半导体巨头瑞萨电子27日在中国北京开设了以人工智能（AI）自主驱动机器人的“物理AI”研发基地，希望通过深化与在人形机器人领域领先的中国企业合作，扩大零部件供应。 瑞萨的业务涉及充当机器人“大脑”的微控制器以及用于控制电力的功率半导体等，覆盖人形机器人所需零部件的约三成。公司将在新基地推进与客户的实证试验与共同开发，争取扩大订单，希望未来能覆盖零部件的七成左右。 瑞萨目前零售额的约一半来自面向汽车的业务，希望进一步吸纳面向AI和基础设施的需求，实现公司的进一步发展。中国在人形机器人领域进步显著，零部件层面的竞争也在加剧。（完） 相关报道:",
           "tags": [
             "世界格局",
-            "联合早报·国际"
+            "共同社中文"
           ],
           "importance": 2,
-          "source_name": "联合早报·国际",
-          "source_url": "https://www.zaobao.com.sg/news/world/story20260827-9585321",
-          "image_url": "assets/images/2026-08-27/6b1c8ce958b6_bdadcc84.png",
-          "published_at": "2026-08-27T12:00:00+00:00",
-          "published_label": "2 小时前",
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/14820",
+          "image_url": "assets/images/2026-08-27/d449f5a39ed8_eefa00d1.jpg",
+          "published_at": "2026-08-27T08:37:00+00:00",
+          "published_label": "6 小时前",
           "verification_count": 2,
           "verified_by": [
-            "联合早报·国际",
-            "财联社"
+            "共同社中文",
+            "钛媒体"
           ],
-          "source_domain": "zaobao.com.sg",
+          "source_domain": "china.kyodonews.net",
           "category_id": "world"
         }
       ]
@@ -380,7 +379,7 @@
           "source_url": "https://www.qbitai.com/2026/08/480092.html",
           "image_url": "assets/images/2026-08-27/763312d605a9_7e05bf74.webp",
           "published_at": "2026-08-27T12:16:10+00:00",
-          "published_label": "2 小时前",
+          "published_label": "3 小时前",
           "verification_count": 4,
           "verified_by": [
             "IT之家",
@@ -430,7 +429,7 @@
           "source_url": "https://www.leiphone.com/category/industrynews/0Z6n8ySHqLD98RLe.html",
           "image_url": null,
           "published_at": "2026-08-27T07:26:00+00:00",
-          "published_label": "7 小时前",
+          "published_label": "8 小时前",
           "verification_count": 2,
           "verified_by": [
             "36氪",
@@ -484,7 +483,7 @@
           "source_url": "http://finance.eastmoney.com/news/1354,202608273855271756.html",
           "image_url": "assets/images/2026-08-27/ebcd8d8e5398_03a21929.jpg",
           "published_at": "2026-08-26T19:10:30+00:00",
-          "published_label": "19 小时前",
+          "published_label": "20 小时前",
           "verification_count": 3,
           "verified_by": [
             "36氪",
@@ -509,7 +508,7 @@
           "source_url": "https://www.ithome.com/0/995/309.htm",
           "image_url": null,
           "published_at": "2026-08-27T14:04:45+00:00",
-          "published_label": "37 分钟前",
+          "published_label": "1 小时前",
           "verification_count": 2,
           "verified_by": [
             "36氪",
