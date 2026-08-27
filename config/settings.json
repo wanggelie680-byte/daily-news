@@ -1,0 +1,61 @@
+{
+  "site_title": "每日热点简报",
+  "site_tagline": "自动聚合社会热点、时事政策、世界格局与世界经济",
+  "timezone": "Asia/Shanghai",
+  "schedule_cron": "0 0 * * *",
+  "items_per_category": 4,
+  "max_age_hours": 48,
+  "min_verified_sources": 2,
+  "max_per_source": 2,
+  "global_max_per_source": 4,
+  "foreign_domains": ["china.kyodonews.net", "zaobao.com.sg", "wenweipo.com"],
+  "retention_days": 90,
+  "request_timeout_seconds": 15,
+  "article_timeout_seconds": 20,
+  "llm": {
+    "enabled": true,
+    "model": "deepseek-chat",
+    "api_url": "https://api.deepseek.com/chat/completions",
+    "timeout_seconds": 60,
+    "max_retries": 2,
+    "max_source_chars": 4000
+  },
+  "categories": [
+    {
+      "id": "hot",
+      "name": "社会热点",
+      "color": "#d92c20",
+      "description": "民生、教育、医疗、社会事件",
+      "limit": 4
+    },
+    {
+      "id": "policy",
+      "name": "时事政策",
+      "color": "#1f6feb",
+      "description": "政府文件、法律法规、改革举措",
+      "limit": 4
+    },
+    {
+      "id": "world",
+      "name": "世界格局",
+      "color": "#b7791f",
+      "description": "地缘政治、国际冲突、全球秩序",
+      "limit": 6,
+      "foreign_only": true
+    },
+    {
+      "id": "ai",
+      "name": "AI 前沿",
+      "color": "#6d5ae0",
+      "description": "人工智能、大模型、机器人、AI 应用",
+      "limit": 4
+    },
+    {
+      "id": "economy",
+      "name": "世界经济",
+      "color": "#0e8a5f",
+      "description": "市场、贸易、央行、产业动向",
+      "limit": 4
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>历史归档 · {{ settings.site_title }}</title>
+  <link rel="stylesheet" href="../assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='14' fill='%23d92c20'/><text x='50' y='72' font-size='58' text-anchor='middle' fill='white' font-family='sans-serif'>闻</text></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container topbar">
+      <a class="brand" href="../index.html">{{ settings.site_title }}</a>
+      <nav class="topnav" aria-label="主导航">
+        <div class="day-menu">
+          <details>
+            <summary>今日 <span class="caret">▾</span></summary>
+            <ul class="day-menu-list">
+              {% for item in day_nav %}
+              <li>
+                {% if item.available %}
+                <a href="{{ item.href }}"><strong>{{ item.label }}</strong><span>{{ item.date }}</span></a>
+                {% else %}
+                <span class="day-empty"><strong>{{ item.label }}</strong><span>{{ item.date }} · 暂无</span></span>
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          </details>
+        </div>
+        <a href="index.html" class="active">归档</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="masthead">
+      <p class="masthead-kicker">每日热点简报</p>
+      <h1>历史归档</h1>
+      <p class="masthead-meta">共 {{ digests|length }} 期 · 每期包含四类主题与原文链接</p>
+    </section>
+
+    {% if digests %}
+    <ul class="archive-list">
+      {% for item in digests %}
+      <li>
+        <a href="{{ item.date }}.html">
+          <strong>{{ item.display_date }}</strong>
+          <span>生成于 {{ item.generated_label }} · {{ item.event_count }} 条</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p class="empty-note">暂无历史归档。</p>
+    {% endif %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <h2>数据来源</h2>
+      <ul class="footer-sources">
+        {% for feed in feeds %}<li>{{ feed.name }}</li>{% endfor %}
+      </ul>
+      <p>本站仅对公开新闻做自动聚合与摘要，内容版权归原网站所有，点击“阅读原文”跳转原始网页。</p>
+    </div>
+  </footer>
+</body>
+</html>

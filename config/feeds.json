@@ -1,0 +1,162 @@
+{
+  "feeds": [
+    {
+      "id": "chinanews_scroll",
+      "name": "中新网滚动新闻",
+      "type": "rss",
+      "url": "https://www.chinanews.com/rss/scroll-news.xml",
+      "weight": 1.1,
+      "categories": ["hot", "policy"],
+      "primary_category": "hot"
+    },
+    {
+      "id": "chinanews_society",
+      "name": "中新网社会",
+      "type": "rss",
+      "url": "https://www.chinanews.com/rss/society.xml",
+      "weight": 1.1,
+      "categories": ["hot"]
+    },
+    {
+      "id": "chinanews_china",
+      "name": "中新网时政",
+      "type": "rss",
+      "url": "https://www.chinanews.com/rss/china.xml",
+      "weight": 1.2,
+      "categories": ["policy"]
+    },
+    {
+      "id": "ithome",
+      "name": "IT之家",
+      "type": "rss",
+      "url": "https://www.ithome.com/rss/",
+      "weight": 0.9,
+      "categories": ["hot"]
+    },
+    {
+      "id": "kr36",
+      "name": "36氪",
+      "type": "rss",
+      "url": "https://www.36kr.com/feed",
+      "weight": 0.9,
+      "categories": ["hot", "economy"],
+      "primary_category": "economy"
+    },
+    {
+      "id": "chinanews_world",
+      "name": "中新网国际",
+      "type": "rss",
+      "url": "https://www.chinanews.com/rss/world.xml",
+      "weight": 1.0,
+      "categories": []
+    },
+    {
+      "id": "people_politics_html",
+      "name": "人民网时政",
+      "type": "html_list",
+      "url": "http://politics.people.com.cn/GB/1024/index.html",
+      "path_contains": "",
+      "link_pattern": "n1/\\d{4}/\\d{4}/c\\d+-\\d+\\.html",
+      "date_pattern": "/n1/(\\d{4})/(\\d{4})/c\\d+-\\d+\\.html",
+      "weight": 1.1,
+      "max_items": 30,
+      "categories": ["policy"]
+    },
+    {
+      "id": "news_politics_html",
+      "name": "新华网时政",
+      "type": "html_list",
+      "url": "http://www.news.cn/politics/",
+      "path_contains": "",
+      "link_pattern": "/politics/20\\d{6}/",
+      "date_pattern": "/politics/(\\d{4})(\\d{2})(\\d{2})/",
+      "weight": 1.1,
+      "max_items": 30,
+      "categories": ["policy"]
+    },
+    {
+      "id": "gmw_politics_html",
+      "name": "光明网时政",
+      "type": "html_list",
+      "url": "https://politics.gmw.cn/",
+      "path_contains": "",
+      "link_pattern": "\\d{4}-\\d{2}/\\d{2}/content_\\d+\\.htm",
+      "date_pattern": "(\\d{4})-(\\d{2})/(\\d{2})/content_\\d+\\.htm",
+      "weight": 1.1,
+      "max_items": 30,
+      "categories": ["policy"]
+    },
+    {
+      "id": "kyodo_world",
+      "name": "共同社中文",
+      "type": "rss",
+      "url": "https://china.kyodonews.net/rss/news.xml",
+      "weight": 1.2,
+      "categories": ["world"]
+    },
+    {
+      "id": "zaobao_world",
+      "name": "联合早报·国际",
+      "type": "html_list",
+      "url": "https://www.zaobao.com.sg/realtime/world",
+      "path_contains": "",
+      "link_pattern": "(?:/news/world/|/realtime/world/)story\\d{8}",
+      "date_pattern": "story(\\d{8})",
+      "weight": 1.2,
+      "max_items": 40,
+      "categories": ["world"]
+    },
+    {
+      "id": "wenweipo_world",
+      "name": "香港文汇网",
+      "type": "html_list",
+      "url": "https://www.wenweipo.com/",
+      "path_contains": "",
+      "link_pattern": "/a/\\d{6}/\\d{2}/",
+      "date_pattern": "/a/(\\d{4})(\\d{2})/(\\d{2})/",
+      "weight": 1.1,
+      "max_items": 30,
+      "categories": ["world"]
+    },
+    {
+      "id": "qbitai",
+      "name": "量子位",
+      "type": "rss",
+      "url": "https://www.qbitai.com/feed",
+      "weight": 1.1,
+      "categories": ["ai"]
+    },
+    {
+      "id": "leiphone",
+      "name": "雷峰网",
+      "type": "rss",
+      "url": "https://www.leiphone.com/feed",
+      "weight": 1.0,
+      "categories": ["ai"]
+    },
+    {
+      "id": "tmtpost",
+      "name": "钛媒体",
+      "type": "rss",
+      "url": "https://www.tmtpost.com/rss",
+      "weight": 1.0,
+      "categories": ["ai"]
+    },
+    {
+      "id": "chinanews_finance",
+      "name": "中新网财经",
+      "type": "rss",
+      "url": "https://www.chinanews.com/rss/finance.xml",
+      "weight": 1.1,
+      "categories": ["economy"]
+    },
+    {
+      "id": "eastmoney",
+      "name": "东方财富",
+      "type": "rss",
+      "url": "https://rss.eastmoney.com/rss_partener.xml",
+      "weight": 1.0,
+      "categories": ["economy"]
+    }
+  ]
+}
