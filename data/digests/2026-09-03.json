@@ -1,0 +1,548 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T08:20:56.202497+08:00",
+  "site_title": "每日热点简报",
+  "site_tagline": "自动聚合社会热点、时事政策、世界格局与世界经济",
+  "feed_names": [
+    "36氪",
+    "IT之家",
+    "东方财富",
+    "中新网国际",
+    "中新网时政",
+    "中新网滚动新闻",
+    "中新网社会",
+    "中新网财经",
+    "人民网时政",
+    "光明网时政",
+    "共同社中文",
+    "新华网时政",
+    "联合早报·国际",
+    "量子位",
+    "钛媒体",
+    "雷峰网",
+    "香港文汇网"
+  ],
+  "hero": {
+    "id": "8055fe954401",
+    "title": "9月3日新闻早报",
+    "summary": "“大”和“新”的中国市场为外企提供机会清单 中新网评：家长提议凑600元请保洁打扫教室，这个钱该不该花？",
+    "detail": "“大”和“新”的中国市场为外企提供机会清单 中新网评：家长提议凑600元请保洁打扫教室，这个钱该不该花？ 越南用工荒打脸“中国挤压论” 南派三叔：我有特异功能，能强行回到少年 这个“一眼看不懂工作内容”的新职业，能“火”多久？ 高温湿热下，环卫工人工装成了“贴身蒸笼”？ 博物馆的“距今”为何年年不变？碳-14测年基准揭秘 为什么停编31小时之后，台风“沙德尔”又“复活”了？ 七旬老人种出“葫芦七兄弟” 热度背后是童年回忆 大连“芯”光闪耀，东北振兴再添强劲引擎 国产品牌集体涨价，还能买到便宜手机吗？ 记者手记：在尼罗河畔，感受文明交响 海滩扔垃圾？",
+    "tags": [
+      "社会热点",
+      "中新网滚动新闻"
+    ],
+    "importance": 2,
+    "source_name": "中新网滚动新闻",
+    "source_url": "https://www.chinanews.com.cn/iframe/2026/09-03/10689174.shtml",
+    "image_url": "assets/images/2026-09-03/8055fe954401_93683706.png",
+    "published_at": "2026-09-02T22:51:24+00:00",
+    "published_label": "1 小时前",
+    "verification_count": 3,
+    "verified_by": [
+      "东方财富研究中心",
+      "中新网滚动新闻",
+      "钛媒体"
+    ],
+    "source_domain": "chinanews.com.cn",
+    "category_id": "hot"
+  },
+  "categories": [
+    {
+      "id": "hot",
+      "name": "社会热点",
+      "color": "#d92c20",
+      "description": "民生、教育、医疗、社会事件",
+      "events": [
+        {
+          "id": "8055fe954401",
+          "title": "9月3日新闻早报",
+          "summary": "“大”和“新”的中国市场为外企提供机会清单 中新网评：家长提议凑600元请保洁打扫教室，这个钱该不该花？",
+          "detail": "“大”和“新”的中国市场为外企提供机会清单 中新网评：家长提议凑600元请保洁打扫教室，这个钱该不该花？ 越南用工荒打脸“中国挤压论” 南派三叔：我有特异功能，能强行回到少年 这个“一眼看不懂工作内容”的新职业，能“火”多久？ 高温湿热下，环卫工人工装成了“贴身蒸笼”？ 博物馆的“距今”为何年年不变？碳-14测年基准揭秘 为什么停编31小时之后，台风“沙德尔”又“复活”了？ 七旬老人种出“葫芦七兄弟” 热度背后是童年回忆 大连“芯”光闪耀，东北振兴再添强劲引擎 国产品牌集体涨价，还能买到便宜手机吗？ 记者手记：在尼罗河畔，感受文明交响 海滩扔垃圾？",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/iframe/2026/09-03/10689174.shtml",
+          "image_url": "assets/images/2026-09-03/8055fe954401_93683706.png",
+          "published_at": "2026-09-02T22:51:24+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "东方财富研究中心",
+            "中新网滚动新闻",
+            "钛媒体"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        },
+        {
+          "id": "69d573944ea7",
+          "title": "首个化妆品强制性国家标准对儿童用妆安全作出规定",
+          "summary": "首个化妆品强制性国家标准对儿童用妆安全作出规定",
+          "detail": "首个化妆品强制性国家标准对儿童用妆安全作出规定 首个化妆品强制性国家标准对儿童用妆安全作出规定 小小化妆盒应让家长孩子“看得懂” “妈妈，我们班同学都有这个公主化妆盒！”北京市一家商店的货架前，8岁女孩乐乐(化名)拉着母亲张女士，在一款包装精美的“儿童彩妆套装”前停下脚步。 张女士打开化妆盒，眼影、口红、腮红并排摆放，无独立塑封，粉状、膏状产品混装一处，售价不足百元。“包装看着好看，可找不到成分说明和生产日期，小孩子能用吗？”张女士迟疑片刻，放下套装，带着一脸失落的乐乐离开了。 《法治日报》记者近日走访调查发现，一些商家推出儿童彩妆套装、儿童化妆品，凭借精致花哨的包装吸引孩子。",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/fz/2026/09-03/10689191.shtml",
+          "image_url": null,
+          "published_at": "2026-09-02T23:41:07+00:00",
+          "published_label": "39 分钟前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网滚动新闻",
+            "新华网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "name": "时事政策",
+      "color": "#1f6feb",
+      "description": "政府文件、法律法规、改革举措",
+      "events": [
+        {
+          "id": "6cfe901cb065",
+          "title": "中央社会主义学院2026年秋季学期开学典礼在京举行",
+          "summary": "中央社会主义学院2026年秋季学期开学典礼在京举行 2026年09月02日06:07 | 来源：人民网－人民日报222 订阅已订阅已收藏收藏小字号 点击播报本文，约 本报北京9月1…",
+          "detail": "中央社会主义学院2026年秋季学期开学典礼在京举行 2026年09月02日06:07 | 来源：人民网－人民日报222 订阅已订阅已收藏收藏小字号 点击播报本文，约 本报北京9月1日电 （记者杨昊）中央社会主义学院2026年秋季学期开学典礼9月1日在京举行。全国人大常委会副委员长、中央社院院长武维华出席并讲话。",
+          "tags": [
+            "时事政策",
+            "人民网时政"
+          ],
+          "importance": 1,
+          "source_name": "人民网时政",
+          "source_url": "http://politics.people.com.cn/n1/2026/0902/c1001-40790632.html",
+          "image_url": "assets/images/2026-09-03/6cfe901cb065_b20dfea2.png",
+          "published_at": "2026-09-02T12:00:00+00:00",
+          "published_label": "12 小时前",
+          "verification_count": 6,
+          "verified_by": [
+            "IT之家",
+            "中新网国际",
+            "中新网财经",
+            "人民网时政",
+            "新华网时政",
+            "钛媒体",
+            "雷峰网"
+          ],
+          "source_domain": "politics.people.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "068741c12a2c",
+          "title": "为推动上海合作组织实现更高质量发展汇聚合力",
+          "summary": "为推动上海合作组织实现更高质量发展汇聚合力 ——习近平主席在上海合作组织成员国元首理事会第二十六次会议及“上海合作组织+”会议上的重要讲话引发热烈反响 点击播报本文，约 9月1日，…",
+          "detail": "为推动上海合作组织实现更高质量发展汇聚合力 ——习近平主席在上海合作组织成员国元首理事会第二十六次会议及“上海合作组织+”会议上的重要讲话引发热烈反响 点击播报本文，约 9月1日，习近平主席在比什凯克出席上海合作组织成员国元首理事会第二十六次会议、“上海合作组织+”会议，并发表重要讲话。接受本报记者采访的国际人士表示，习近平主席的重要讲话为推动上海合作组织实现更高质量发展汇聚合力，为推动全球治理体系朝着更加公正合理的方向发展指明路径，为维护世界和平与发展注入更多确定性和正能量。 “弘扬‘上海精神’，携手建设更加美好的共同家园” 今年是上海合作组织成立25周年。",
+          "tags": [
+            "时事政策",
+            "人民网时政"
+          ],
+          "importance": 1,
+          "source_name": "人民网时政",
+          "source_url": "http://politics.people.com.cn/n1/2026/0902/c1001-40790682.html",
+          "image_url": "assets/images/2026-09-03/068741c12a2c_23a912c4.png",
+          "published_at": "2026-09-02T12:00:00+00:00",
+          "published_label": "12 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网财经",
+            "人民网时政",
+            "央视新闻",
+            "新华社"
+          ],
+          "source_domain": "politics.people.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "5b53b06ffa4d",
+          "title": "习近平圆满结束对埃及的国事访问",
+          "summary": "中新社开罗9月2日电 (记者 郭金超 谢雁冰)当地时间9月2日晚，中国国家主席习近平结束对埃及的国事访问。",
+          "detail": "中新社开罗9月2日电 (记者 郭金超 谢雁冰)当地时间9月2日晚，中国国家主席习近平结束对埃及的国事访问。 离开开罗时，埃及总统塞西夫妇到机场送行。(完) “大”和“新”的中国市场为外企提供机会清单 中新网评：家长提议凑600元请保洁打扫教室，这个钱该不该花？ 越南用工荒打脸“中国挤压论” 南派三叔：我有特异功能，能强行回到少年 这个“一眼看不懂工作内容”的新职业，能“火”多久？ 高温湿热下，环卫工人工装成了“贴身蒸笼”？ 博物馆的“距今”为何年年不变？碳-14测年基准揭秘 为什么停编31小时之后，台风“沙德尔”又“复活”了？",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 2,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/09-03/10689164.shtml",
+          "image_url": "assets/images/2026-09-03/5b53b06ffa4d_6c34c9cb.jpeg",
+          "published_at": "2026-09-02T19:12:40+00:00",
+          "published_label": "5 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网时政",
+            "人民网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "2379c9fef81d",
+          "title": "外交部副部长马朝旭会见美中贸易全国委员会董事会代表团",
+          "summary": "2026年9月2日，外交部副部长马朝旭会见美中贸易全国委员会董事会主席麦凯恩率领的访华团，双方就中美关系、经贸合作、人文交流等交换了意见。美中贸易全国委员会会长谭森等参加会见。",
+          "detail": "外交部副部长马朝旭会见美中贸易全国委员会董事会代表团 2026年9月2日，外交部副部长马朝旭会见美中贸易全国委员会董事会主席麦凯恩率领的访华团，双方就中美关系、经贸合作、人文交流等交换了意见。美中贸易全国委员会会长谭森等参加会见。 (央视新闻客户端) 国内新闻精选： - 2026年09月02日 11:58:30 - 2026年09月02日 11:37:21 - 2026年09月01日 20:42:03 - 2026年09月01日 20:34:18 - 2026年09月01日 18:25:12 - 2026年09月01日 13:07:39 - 2026年09月01日 11:33:52 - 202…",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 2,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/09-02/10689145.shtml",
+          "image_url": "assets/images/2026-09-03/2379c9fef81d_b032459d.jpg",
+          "published_at": "2026-09-02T14:40:37+00:00",
+          "published_label": "9 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网时政",
+            "人民网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "世界格局",
+      "color": "#b7791f",
+      "description": "地缘政治、国际冲突、全球秩序",
+      "events": [
+        {
+          "id": "4f53937a24ab",
+          "title": "优步宣布裁员约3300人 占全球员工总数的10%",
+          "summary": "优步科技公司（Uber Technologies）宣布将裁员约3300人，约占全球员工总数的10%。这次重组旨在精简管理层级、整合团队并降低成本。",
+          "detail": "优步科技公司（Uber Technologies）宣布将裁员约3300人，约占全球员工总数的10%。这次重组旨在精简管理层级、整合团队并降低成本。 彭博新闻星期三（9月2日）率先报道这一消息。消息公布后，Uber股价在盘前交易中上涨了约2%。 这将是优步自2020年5月以来规模最大的一轮裁员。当时，冠病疫情限制措施导致私召车服务需求锐减，优步裁员约6700人，占员工总数约四分之一。 优步首席执行官科斯罗萨西（Dara Khosrowshahi）在彭博取得的一封内部电邮中宣布上述调整。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20260902-9616174",
+          "image_url": "assets/images/2026-09-03/4f53937a24ab_d971a888.jpg",
+          "published_at": "2026-09-02T12:00:00+00:00",
+          "published_label": "12 小时前",
+          "verification_count": 4,
+          "verified_by": [
+            "36氪",
+            "上海证券报",
+            "联合早报·国际",
+            "香港文汇网"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "c70f1b69216a",
+          "title": "黄仁勋在G20促各国建设数据中心 警告AI监管过度恐落后",
+          "summary": "英伟达首席执行官黄仁勋敦促G20各国部长建设更多数据中心，以支持人工智能革命，并警告称那些大肆渲染人工智能技术危险的领导人可能会让自己的国家落后。",
+          "detail": "英伟达首席执行官黄仁勋敦促G20各国部长建设更多数据中心，以支持人工智能革命，并警告称那些大肆渲染人工智能技术危险的领导人可能会让自己的国家落后。 法新社报道，黄仁勋星期三（9月2日）在北卡罗来纳州举行的G20峰会第二天，发出上述呼吁。这次峰会由美国总统特朗普政府召集，旨在让全球主要经济体的部长们向顶尖人工智能（AI）企业高管阐述他们的愿景。 黄仁勋在会上对部长们说：“最终，每个国家都必须认识到，AI是基础设施，就像水、道路、电力和互联网一样。每个国家都需要建设基础设施，才能支撑本国经济。” 他说，此类设施能够提供“支持研究人员、学生、社会、产业和初创企业所需的数码化智力资源”。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20260902-9616870",
+          "image_url": "assets/images/2026-09-03/c70f1b69216a_6562263a.jpg",
+          "published_at": "2026-09-02T12:00:00+00:00",
+          "published_label": "12 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "36氪",
+            "联合早报·国际",
+            "财联社"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "1ec492813ca6",
+          "title": "（有片）西藏吉隆泥石流災害已致21死541失聯 下一步搜尋重點→",
+          "summary": "8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。今天（2日），西藏吉隆「8·26」泥石流災害新聞發布會在吉隆鎮舉行。",
+          "detail": "8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。今天（2日），西藏吉隆「8·26」泥石流災害新聞發布會在吉隆鎮舉行。 西藏吉隆泥石流災害 已致21人遇難 541人失聯 記者從發布會上獲悉，截至9月2日12時，災害已致21人遇難，仍有541人失聯，發現遺物847件。 此外，災害發生後，西藏及時開通國內外失聯人員家屬服務電話，截至9月2日12時，累計接到家屬來電876人次，其中國內來電448人次、國外來電428人次，接待安置家屬587人，涉及失聯人員253人。同時，做好499名安置群眾的醫療、教育、基本生活和心理安撫等服務保障。",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 1,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202609/02/AP6a983f33e4b0c1e500274a85.html",
+          "image_url": "assets/images/2026-09-03/1ec492813ca6_409b3500.jpg",
+          "published_at": "2026-09-02T12:00:00+00:00",
+          "published_label": "12 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网时政",
+            "中新网社会",
+            "新华网时政",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "6d46d7c800f1",
+          "title": "（有片）跳下直升機陷入淤泥 救援人員爬行挺進吉隆口岸核心區",
+          "summary": "8月31日，記者跟隨消防救援力量乘直升機進入吉隆口岸受災核心區。從懸停的直升機上跳下來，救援人員整個人陷在淤泥裏，他們需要爬行着往前走。",
+          "detail": "8月31日，記者跟隨消防救援力量乘直升機進入吉隆口岸受災核心區。從懸停的直升機上跳下來，救援人員整個人陷在淤泥裏，他們需要爬行着往前走。受災核心區搜救有哪些困難？搜救隊員們晚上住宿面臨什麼風險？ （來源：央視新聞客戶端） 相關閲讀： 責任編輯： 孫姣 評論成功，請等待管理員審核...",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 1,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202609/02/AP6a982d6ce4b0c1e500274949.html",
+          "image_url": "assets/images/2026-09-03/6d46d7c800f1_6fb6ca53.jpeg",
+          "published_at": "2026-09-02T12:00:00+00:00",
+          "published_label": "12 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网时政",
+            "中新网社会",
+            "新华网时政",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "07bd85e7cc75",
+          "title": "美财长要求日本转变宽松的货币和财政政策",
+          "summary": "【共同社阿什维尔9月2日电】美国财政部长贝森特1日在二十国集团（G20）财长和央行行长会议闭幕后的记者会上要求日本转变宽松的货币和财政政策。",
+          "detail": "【共同社阿什维尔9月2日电】美国财政部长贝森特1日在二十国集团（G20）财长和央行行长会议闭幕后的记者会上要求日本转变宽松的货币和财政政策。当被问及作为长期利率指标的新发10年期国债收益率30年来首次达到3%的日本财政状况时，他表示“必须对成功实现（摆脱通缩的）再通胀这一结果进行考虑。” 贝森特指出，采取再通胀政策的安倍政府时期经济政策“安倍经济学”已经取得成果。他认为“现在是高市经济学的时代”，呼吁日本摆脱之前的政策。 此次会议是2022年2月俄乌冲突爆发后，俄罗斯财长首次线下出席。贝森特表示：“我想欧洲的一些人会对此感到不满，但（与俄罗斯）保持接触很重要。”（完） 相关报道:",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 1,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/15065",
+          "image_url": "assets/images/2026-09-03/07bd85e7cc75_ec055d22.jpg",
+          "published_at": "2026-09-02T04:06:00+00:00",
+          "published_label": "20 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "上海证券报",
+            "共同社中文",
+            "央行网站",
+            "钛媒体"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        },
+        {
+          "id": "df6c1823a2c4",
+          "title": "点击榜TOP5（9月2日）",
+          "summary": ".m-article-item-ttl__link { color: blue; } 1） 数据：高市批评性视频7月激增 反映对物价上涨等不满2） 美国和印尼开启“超级神鹰之盾”演…",
+          "detail": "1） 数据：高市批评性视频7月激增 反映对物价上涨等不满 2） 美国和印尼开启“超级神鹰之盾”演习 日本陆自参加 3） 日美太空部门签署合作备忘录 考虑拓展商业航天 4） 日官房长官称关注中俄关系并关切军事活动 5） 日本与比利时防长会谈确认推进防务合作 （9月2日 13:00 统计）※数据统计系统延迟",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 1,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/15059",
+          "image_url": "assets/images/2026-09-03/df6c1823a2c4_ebac3a53.jpg",
+          "published_at": "2026-09-02T04:00:00+00:00",
+          "published_label": "20 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "东方财富Choice数据",
+            "东方财富研究中心",
+            "共同社中文",
+            "雷峰网"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI 前沿",
+      "color": "#6d5ae0",
+      "description": "人工智能、大模型、机器人、AI 应用",
+      "events": [
+        {
+          "id": "dbf988516135",
+          "title": "Zeroth 元点机器人预告发布 OpenBridge 生态：具身智能的「安卓时",
+          "summary": "今天，乐享科技旗下的元点机器人，官宣即将推出自己的首款产品以及 全球首个具身 Physical AI 开源生态——OpenBridge。",
+          "detail": "您正在使用IE低版浏览器，为了您的雷峰网账号安全和更好的产品体验，强烈建议使用更快更安全的浏览器 此为临时链接，仅用于文章预览，将在时失效 0 导语：全球首个具身 Physical AI 开源生态，将如何改写机器人行业格局？ 今天，乐享科技旗下的元点机器人，官宣即将推出自己的首款产品以及全球首个具身 Physical AI 开源生态——OpenBridge。 在海报上能看到，“桥”的元素无处不在——这次发布，元点机器人想要突出的，或许不只是独立的产品，而是基于产品来建造一座“桥梁”，去连接更广阔的物理 AI 生态。",
+          "tags": [
+            "AI 前沿",
+            "雷峰网"
+          ],
+          "importance": 1,
+          "source_name": "雷峰网",
+          "source_url": "https://www.leiphone.com/category/industrynews/7XuKxVmxPG0rwM3f.html",
+          "image_url": null,
+          "published_at": "2026-09-02T10:15:00+00:00",
+          "published_label": "14 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "IT之家",
+            "中国基金报",
+            "雷峰网"
+          ],
+          "source_domain": "leiphone.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "8cb0fbe67576",
+          "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正",
+          "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+          "detail": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来 SkyProduction（天工工作台）全新版本于8月31日正式上线 SkyProduction（天工工作台）全新版本于8月31日正式上线，它把剧本、资产、分镜、视频和后期放到一条生产线上，让创作者少一点搬运和重做，多一点时间打磨创意。 （一）剧本功能三板斧 做过AI短剧的人都知道，最难的不是第一条视频，而是第二十条、第三十条还能不能接着做。一个镜头反复生成，人物换个场景就变脸，坏了两秒却要整段重来。时间成本和金钱成本一起往上涨。 AI短剧真正开始生成之前，剧本质量决定了后面每一步会不会返工。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 1,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/09/483274.html",
+          "image_url": "assets/images/2026-09-03/8cb0fbe67576_fd297adc.png",
+          "published_at": "2026-09-02T09:22:16+00:00",
+          "published_label": "14 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "IT之家",
+            "量子位"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "5465860b50b6",
+          "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+          "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+          "detail": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局 9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能 9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能，将重点负责机器人强化学习方向的技术研发与应用探索。 过去两年，机器人基础模型主要在解决“会不会”。但随着机器人从 Demo 走向真实部署和商业化，问题正在转向“能不能稳定做好”。如何让机器人根据真实执行结果持续修正策略，也让强化学习重新回到行业关注的中心。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 1,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/09/483097.html",
+          "image_url": "assets/images/2026-09-03/5465860b50b6_d9a24c59.jpeg",
+          "published_at": "2026-09-02T06:06:50+00:00",
+          "published_label": "18 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "量子位"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "775aecb26d2f",
+          "title": "China's Humanoid Robots Industry Enters ",
+          "summary": "China's robotics industry is changing the way it survives and operates.",
+          "detail": "NextFin News -- The focus of competition in the humanoid-robot industry is shifting from athletic performance to job execution in real-world settings. What will determine where a company ultimately lands is no longer how fast it can run or how high it can jump in an arena, but whether it can reliabl…",
+          "tags": [
+            "AI 前沿",
+            "钛媒体"
+          ],
+          "importance": 1,
+          "source_name": "钛媒体",
+          "source_url": "https://www.tmtpost.com/8126318.html",
+          "image_url": "assets/images/2026-09-03/775aecb26d2f_9a896544.png",
+          "published_at": "2026-09-02T13:37:06+00:00",
+          "published_label": "10 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "IT之家",
+            "钛媒体"
+          ],
+          "source_domain": "tmtpost.com",
+          "category_id": "ai"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "世界经济",
+      "color": "#0e8a5f",
+      "description": "市场、贸易、央行、产业动向",
+      "events": [
+        {
+          "id": "2b8ca5f4ead8",
+          "title": "补齐关键短板！焦炭期权正式挂牌上市",
+          "summary": "9月2日，焦炭期权在大连商品交易所（以下简称“大商所”）正式挂牌交易。 上市首日，焦炭期权首批挂牌以J2611至J2708共10个 期货 合约为标的的共计328个期权合约，合约周期…",
+          "detail": "9月2日，焦炭期权在大连商品交易所（以下简称“大商所”）正式挂牌交易。 上市首日，焦炭期权首批挂牌以J2611至J2708共10个期货合约为标的的共计328个期权合约，合约周期覆盖近月到中远月，兼顾短期套保、中长期风险对冲、价差套利等多样化的市场场景。 随着焦炭期权正式挂牌交易，大商所已实现焦煤、焦炭、铁矿石三大黑色核心品种“期货+期权”双工具全覆盖，构建起完善的煤焦钢全链条衍生品风险管理矩阵，进一步提升煤焦钢产业链价格发现效率与风险对冲精准度。 焦炭期权首秀平稳“启航” 上市首日，焦炭期权市场运行平稳有序，与标的焦炭期货形成有效联动，产业企业参与积极，市场整体开局稳健、反响良好。",
+          "tags": [
+            "世界经济",
+            "券商中国"
+          ],
+          "importance": 1,
+          "source_name": "券商中国",
+          "source_url": "http://option.eastmoney.com/news/11799,202609023863106529.html",
+          "image_url": "assets/images/2026-09-03/2b8ca5f4ead8_05b02105.jpg",
+          "published_at": "2026-09-02T16:10:00+00:00",
+          "published_label": "8 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "券商中国"
+          ],
+          "source_domain": "option.eastmoney.com",
+          "category_id": "economy"
+        },
+        {
+          "id": "d3ad262da4fa",
+          "title": "AI算力竞逐 谁在赚钱谁在烧钱？",
+          "summary": "据中国上市公司协会数据，截至8月31日，我国境内股票市场（包括沪深北三家证券交易所）共5557家上市公司披露2026年半年度报告，AI（ 人工智能 ）产业链成为本轮中报季表现亮眼的…",
+          "detail": "据中国上市公司协会数据，截至8月31日，我国境内股票市场（包括沪深北三家证券交易所）共5557家上市公司披露2026年半年度报告，AI（人工智能）产业链成为本轮中报季表现亮眼的赛道。 但记者梳理AI产业链公司中报发现，产业链利润沿着“芯片—算力基础设施—大模型—行业应用”逐级递减：上游硬件利润高增，中游大模型仍在盈利爬坡阶段，下游应用刚刚看到商业化曙光。一张AI产业链“利润分配图谱”随中报收官清晰浮现。 上游：“卖铲人”利润丰厚 腾讯研究院和AI研究机构SemiAnalysis的数据显示，在词元成本中，芯片成本占比在40%到55%，基础设施投入占比在15%到20%。",
+          "tags": [
+            "世界经济",
+            "证券日报"
+          ],
+          "importance": 1,
+          "source_name": "证券日报",
+          "source_url": "http://finance.eastmoney.com/news/1354,202609023861863139.html",
+          "image_url": "assets/images/2026-09-03/d3ad262da4fa_d0265ca5.png",
+          "published_at": "2026-09-01T16:16:00+00:00",
+          "published_label": "1 天前",
+          "verification_count": 2,
+          "verified_by": [
+            "IT之家",
+            "证券日报"
+          ],
+          "source_domain": "finance.eastmoney.com",
+          "category_id": "economy"
+        },
+        {
+          "id": "c46d0e2c4660",
+          "title": "积极信号！房企拿地总额连续6个月降幅收窄",
+          "summary": "房企拿地情况持续改善。 中指研究院数据显示，1—8月，百强房企拿地总额同比下降17.8%，降幅连续6个月收窄，拿地民企数量有所增长。",
+          "detail": "积极信号！房企拿地总额连续6个月降幅收窄 房企拿地情况持续改善。 中指研究院数据显示，1—8月，百强房企拿地总额同比下降17.8%，降幅连续6个月收窄，拿地民企数量有所增长。 业内人士指出，8月核心城市优质土地供给增加，带动房企参拍积极性提升，土拍热度延续。核心地块虽高热，但全国300城平均溢价率仅为7.5%，土地市场延续“点状高热、分化延续”格局。 拿地降幅连续6个月收窄 拿地民企数量有所增长 （文章来源：券商中国）",
+          "tags": [
+            "世界经济",
+            "券商中国"
+          ],
+          "importance": 1,
+          "source_name": "券商中国",
+          "source_url": "http://finance.eastmoney.com/news/1348,202609013861804272.html",
+          "image_url": "assets/images/2026-09-03/c46d0e2c4660_b44dadc1.jpg",
+          "published_at": "2026-09-01T16:16:00+00:00",
+          "published_label": "1 天前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "券商中国"
+          ],
+          "source_domain": "finance.eastmoney.com",
+          "category_id": "economy"
+        }
+      ]
+    }
+  ]
+}
