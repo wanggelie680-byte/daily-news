@@ -1,0 +1,462 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T12:37:39.344126+08:00",
+  "site_title": "每日热点简报",
+  "site_tagline": "自动聚合社会热点、时事政策、世界格局与世界经济",
+  "feed_names": [
+    "36氪",
+    "IT之家",
+    "东方财富",
+    "中新网国际",
+    "中新网时政",
+    "中新网滚动新闻",
+    "中新网社会",
+    "中新网财经",
+    "人民网时政",
+    "光明网时政",
+    "共同社中文",
+    "新华网时政",
+    "联合早报·国际",
+    "量子位",
+    "钛媒体",
+    "雷峰网",
+    "香港文汇网"
+  ],
+  "hero": {
+    "id": "ae6d1ae2b5b4",
+    "title": "国庆假期 游客在上海欣赏黄浦江两岸美景",
+    "summary": "10月1日晚，游客在上海和平饭店户外平台欣赏城市夜景。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。",
+    "detail": "国庆假期 游客在上海欣赏黄浦江两岸美景 10月1日晚，游客在上海和平饭店户外平台欣赏城市夜景。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。中新社记者 殷立勤 摄 10月1日晚，游客在上海市黄浦区外滩滨江步道上用手机拍摄夜景。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。中新社记者 殷立勤 摄 10月1日晚，游客在上海市黄浦区外滩滨江步道上拍照。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。",
+    "tags": [
+      "社会热点",
+      "中新网滚动新闻"
+    ],
+    "importance": 2,
+    "source_name": "中新网滚动新闻",
+    "source_url": "https://www.chinanews.com.cn/tp/2026/10-02/10707056.shtml",
+    "image_url": "assets/images/2026-10-02/ae6d1ae2b5b4_4000ed75.jpg",
+    "published_at": "2026-10-02T03:53:53+00:00",
+    "published_label": "43 分钟前",
+    "verification_count": 4,
+    "verified_by": [
+      "36氪",
+      "IT之家",
+      "中新网滚动新闻",
+      "中新网社会",
+      "中新网财经",
+      "新华网时政"
+    ],
+    "source_domain": "chinanews.com.cn",
+    "category_id": "hot"
+  },
+  "categories": [
+    {
+      "id": "hot",
+      "name": "社会热点",
+      "color": "#d92c20",
+      "description": "民生、教育、医疗、社会事件",
+      "events": [
+        {
+          "id": "ae6d1ae2b5b4",
+          "title": "国庆假期 游客在上海欣赏黄浦江两岸美景",
+          "summary": "10月1日晚，游客在上海和平饭店户外平台欣赏城市夜景。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。",
+          "detail": "国庆假期 游客在上海欣赏黄浦江两岸美景 10月1日晚，游客在上海和平饭店户外平台欣赏城市夜景。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。中新社记者 殷立勤 摄 10月1日晚，游客在上海市黄浦区外滩滨江步道上用手机拍摄夜景。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。中新社记者 殷立勤 摄 10月1日晚，游客在上海市黄浦区外滩滨江步道上拍照。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/tp/2026/10-02/10707056.shtml",
+          "image_url": "assets/images/2026-10-02/ae6d1ae2b5b4_4000ed75.jpg",
+          "published_at": "2026-10-02T03:53:53+00:00",
+          "published_label": "43 分钟前",
+          "verification_count": 4,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "中新网滚动新闻",
+            "中新网社会",
+            "中新网财经",
+            "新华网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        },
+        {
+          "id": "001d65134995",
+          "title": "广西梧州首届“两湾联动 向海图强”龙舟邀请赛开赛 人工智能贯穿全程",
+          "summary": "中新网梧州10月2日电(张广权)10月1日，广西梧州市喜迎国庆第一届“两湾联动 向海图强”龙舟邀请赛开赛。",
+          "detail": "广西梧州首届“两湾联动 向海图强”龙舟邀请赛开赛 人工智能贯穿全程 中新网梧州10月2日电(张广权)10月1日，广西梧州市喜迎国庆第一届“两湾联动 向海图强”龙舟邀请赛开赛。来自粤港澳大湾区、北部湾城市及梧州本土的22支龙舟队伍齐聚西江，在约3000米赛道上展开竞逐。人工智能技术贯穿赛事环节。 放龙仪式上，机器人与真人同舟划桨。机器人立于船头或船中，机械臂随鼓点节奏稳定完成入水、拉桨、回桨等动作，人机配合默契十足。 本次赛事采用专业主持人与人工智能联合主持的形式。通过搭建梧州龙舟赛事专属AI解说知识库，机器人能够结合赛事进程介绍龙舟文化、队伍信息和观赛看点，使赛事解说兼具趣味性与知识性。",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/ty/2026/10-02/10707049.shtml",
+          "image_url": "assets/images/2026-10-02/001d65134995_5affea03.jpg",
+          "published_at": "2026-10-02T03:50:39+00:00",
+          "published_label": "47 分钟前",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网滚动新闻",
+            "财联社",
+            "钛媒体"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "name": "时事政策",
+      "color": "#1f6feb",
+      "description": "政府文件、法律法规、改革举措",
+      "events": [
+        {
+          "id": "c17d2734b7e0",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "summary": "中新网9月30日电 据文化和旅游部网站消息，为深入贯彻党的二十届四中全会精神，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》等部署，文化和旅游部近日印发《艺术发展“十…",
+          "detail": "文化和旅游部印发《艺术发展“十五五”规划》 中新网9月30日电 据文化和旅游部网站消息，为深入贯彻党的二十届四中全会精神，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》等部署，文化和旅游部近日印发《艺术发展“十五五”规划》(以下简称《规划》)。 《规划》坚持马克思主义在意识形态领域的指导地位，坚持“二为”方向和“双百”方针，坚持创造性转化、创新性发展，植根博大精深的中华文明，顺应信息技术发展潮流，以社会主义核心价值观为引领，以艺术事业高质量发展为主题，着力营造良好生态、提升原创能力、推动精品创作、培育优秀人才，激发全民族文化创新创造活力，更好发挥文化养心志、育情操的作用，助力人民…",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 1,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/09-30/10706543.shtml",
+          "image_url": "assets/images/2026-10-02/c17d2734b7e0_778864a3.jpg",
+          "published_at": "2026-09-30T13:35:19+00:00",
+          "published_label": "1 天前",
+          "verification_count": 3,
+          "verified_by": [
+            "上海证券报",
+            "中新网时政",
+            "人民网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "a545efc57a59",
+          "title": "习言道｜我们对中国式现代化的光明前景充满信心",
+          "summary": "庆祝中华人民共和国成立77周年招待会9月30日在人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。他强调——",
+          "detail": "庆祝中华人民共和国成立77周年招待会9月30日在人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。他强调—— TA的文章 让机器人“能干活” 具身智能从“中国量产”走向“全球落地” 这支巴西球队为何三年国庆赴约贵州“村超”？ 中国健儿逐梦亚运：“代表祖国，就要全力以赴” 扩大内需仍需公共投资挑大梁 “闪身步”闪到台湾，社交媒体“全民跟风”，有运动员赛后“边哭边跳” 埃及汉学家哈赛宁：中国故事如何真正抵达阿拉伯读者？",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 1,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/09-30/10706535.shtml",
+          "image_url": "assets/images/2026-10-02/a545efc57a59_4f5e2e18.jpg",
+          "published_at": "2026-09-30T13:41:33+00:00",
+          "published_label": "1 天前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网时政",
+            "人民网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "世界格局",
+      "color": "#b7791f",
+      "description": "地缘政治、国际冲突、全球秩序",
+      "events": [
+        {
+          "id": "7f825310eb36",
+          "title": "报告：OpenAI智能体会掩盖活动轨迹",
+          "summary": "一份报告显示，美国人工智能公司OpenAI开发的人工智能智能体在未经授权访问政府网站后，试图掩盖活动轨迹。 法新社报道，AI智能体（AI Agent）是能够自主运行的AI程序。",
+          "detail": "一份报告显示，美国人工智能公司OpenAI开发的人工智能智能体在未经授权访问政府网站后，试图掩盖活动轨迹。 法新社报道，AI智能体（AI Agent）是能够自主运行的AI程序。今年3月至9月期间，OpenAI的AI智能体未经授权访问了澳大利亚政府网站及其他公共机构。网络安全公司Asymmetric Security对这些AI智能体的活动进行了分析，并于星期四（10月1日）发布上述报告。 Asymmetric发现，这些智能体在一个网站分析服务平台开设了私人账户以隐藏其搜索行为，并创建了临时电子邮箱；其中一个邮箱还设定为48小时后自动销毁。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261002-9771453",
+          "image_url": "assets/images/2026-10-02/7f825310eb36_0e68d883.jpg",
+          "published_at": "2026-10-02T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 6,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "联合早报·国际",
+            "量子位",
+            "钛媒体",
+            "雷峰网"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "0d0ccc764cc4",
+          "title": "2026亞運會 | 壁球女團衝金 黃澤林出戰網球四強 港隊今日焦點賽程一覽",
+          "summary": "香港文匯報訊 繼壁球、網球率先鎖定多枚獎牌後，中國香港代表隊今日（2日）將繼續向金牌發起衝擊，多個項目有港將出戰，其中壁球女團決賽及網球兩場四強賽最引人注目。",
+          "detail": "香港文匯報訊 繼壁球、網球率先鎖定多枚獎牌後，中國香港代表隊今日（2日）將繼續向金牌發起衝擊，多個項目有港將出戰，其中壁球女團決賽及網球兩場四強賽最引人注目。 壁球方面，由李嘉兒、陳善鈺、何子樂、謝依霖組成的香港女隊，昨日在女團四強賽以場數2：1力挫印度隊晉級，今日中午12時30分將在決賽硬撼馬來西亞隊，全力爭奪金牌。男子隊昨日以1：2不敵巴基斯坦隊，在不設銅牌戰的情況下收穫銅牌。 網球同樣好戲連場。港隊「一哥」黃澤林昨日在男單八強戰狀態火熱，首盤轟出6記Ace球，並以直落兩盤（6：3、6：0）淘汰泰國球手沙姆吉，今日上午9時30分將在四強迎戰烏茲別克斯坦選手蘇爾達路夫，力爭決賽席位。",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 2,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202610/02/AP6abefd53e4b01d54a285990b.html",
+          "image_url": "assets/images/2026-10-02/0d0ccc764cc4_db6807f0.jpg",
+          "published_at": "2026-10-02T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 5,
+          "verified_by": [
+            "IT之家",
+            "中新网国际",
+            "中新网时政",
+            "中新网财经",
+            "人民网时政",
+            "光明网时政",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "40d352a1352d",
+          "title": "（有片）多國政要祝賀中華人民共和國成立77周年",
+          "summary": "搜索 媒體矩陣 爆料專線 文匯報 香港仔 海外版 首頁 香港 神州 灣區人 經濟 國際 評論 視頻 軍事 文化 娛樂 生活 教育 體育 科技 專題 專欄 圖集 地方聯播 匯周刊 下…",
+          "detail": "搜索 媒體矩陣 爆料專線 文匯報 香港仔 海外版 首頁 香港 神州 灣區人 經濟 國際 評論 視頻 軍事 文化 娛樂 生活 教育 體育 科技 專題 專欄 圖集 地方聯播 匯周刊 下載客戶端 登錄 個人中心 退出登錄 首頁 香港 神州 灣區人 經濟 國際 評論 視頻 軍事 文化 娛樂 生活 教育 體育 科技 專題 專欄 圖集 地方聯播 匯周刊 下載客戶端 搜索 文匯報 香港仔 海外版 媒體矩陣 爆料專線 登錄 個人中心 退出登錄 搜索 取消 熱門搜尋： 香港文匯報 國際 （有片）多國政要祝賀中華人民共和國成立77周年 （有片）多國政要祝賀中華人民共和國成立77周年 2026-10-01 22:5…",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 1,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202610/01/AP6abe7532e4b01d54a2858efe.html",
+          "image_url": "assets/images/2026-10-02/40d352a1352d_59a91c42.jpeg",
+          "published_at": "2026-10-01T12:00:00+00:00",
+          "published_label": "16 小时前",
+          "verification_count": 4,
+          "verified_by": [
+            "中新网时政",
+            "中新网滚动新闻",
+            "人民网时政",
+            "光明网时政",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "04c5f3610719",
+          "title": "特朗普：若迪拜航空袭击是伊朗所为 将予以猛烈重击",
+          "summary": "美国总统特朗普说，德黑兰方面很可能是迪拜航空机长遭袭击事件的幕后黑手。他还说，一旦查实，伊朗将遭到“猛烈重击”。",
+          "detail": "美国总统特朗普说，德黑兰方面很可能是迪拜航空机长遭袭击事件的幕后黑手。他还说，一旦查实，伊朗将遭到“猛烈重击”。 法新社报道，事发时，迪拜航空（Flydubai）飞机的副驾驶突然袭击印度籍机长马查尔（Smit Machchhar）。所幸乘客和机组人员合力将袭击者制服，化解了坠机危机。以色列总理内坦亚胡表示，涉事副驾驶此前曾接受“极端伊斯兰主义的灌输”。 白宫记者星期四（10月1日）问特朗普，伊朗是否与迪拜航空袭击事件有关，特朗普说：“根据我目前掌握的情况，答案是肯定的，不过我们正在进行核实。” 记者问美国是否会采取报复行动，特朗普回答说：“噢，他们会遭到猛烈重击，不用担心。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261002-9771160",
+          "image_url": "assets/images/2026-10-02/04c5f3610719_6ccff8ee.jpg",
+          "published_at": "2026-10-02T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网国际",
+            "联合早报·国际",
+            "香港文汇网"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "ef92e9e89651",
+          "title": "点击榜TOP5（10月2日）",
+          "summary": ".m-article-item-ttl__link { color: blue; } 1） 高市施政演说草案曝光 称中国是重要邻国2） 详讯：日本前自卫官承认闯入中国使馆 称“梦见…",
+          "detail": "1） 高市施政演说草案曝光 称中国是重要邻国 2） 详讯：日本前自卫官承认闯入中国使馆 称“梦见神明叫我去谈判” 3） 独家：日本经济界拟于明年3月访华 争取与中国高层会谈 4） 详讯3：中国高层罕见连续两天会见日方人士 要求纠正涉台言论 5） 花絮：亚运会赛场的“亚洲特色”格斗项目展现多元魅力 （10月2日 09:00 统计）",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 2,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/16380",
+          "image_url": "assets/images/2026-10-02/ef92e9e89651_98d64b8a.jpg",
+          "published_at": "2026-10-02T00:00:00+00:00",
+          "published_label": "4 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "上海证券报",
+            "共同社中文"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI 前沿",
+      "color": "#6d5ae0",
+      "description": "人工智能、大模型、机器人、AI 应用",
+      "events": [
+        {
+          "id": "6fbc44660a91",
+          "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+          "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+          "detail": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec） 近日，DeepSeek在知乎独家发布技术长文，首次系统阐释了支撑DeepSeek-V4全部训练、评测与数据预处理流程的沙盒基础设施——DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 1,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/09/499308.html",
+          "image_url": "assets/images/2026-10-02/6fbc44660a91_40613093.png",
+          "published_at": "2026-09-30T05:18:05+00:00",
+          "published_label": "1 天前",
+          "verification_count": 5,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "量子位",
+            "钛媒体",
+            "雷峰网"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "42f99d3e4d0a",
+          "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+          "summary": "价格只有Astra一半",
+          "detail": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让 价格只有Astra一半 鹭羽 发自 凹非寺 量子位 | 公众号QbitAI 哎呦喂，谷歌终于也是蹬起来了。。。 假期第一天，谷歌携Gemini 4 Argon空降多榜单第一。 拳打Opus 5.5，脚踢GPT-6 Astra。 更夸张的还在后头，单项任务成本最低可至1.99美元，直接是Astra费用砍半。 最高百万Token输出上限，面向编程、金融和法律等复杂工作流，而且划重点，网络安全防御能力超牛掰。 这波等等党要赢麻了。 不过吧，咱普通用户现在只可远观，暂时还吃不上。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 1,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/10/499663.html",
+          "image_url": "assets/images/2026-10-02/42f99d3e4d0a_27934cfc.jpeg",
+          "published_at": "2026-10-01T15:02:14+00:00",
+          "published_label": "13 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "财联社",
+            "量子位",
+            "钛媒体"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "f054e610b47a",
+          "title": "悬在Muse头上的剑",
+          "summary": "这么可爱肯定是来骗我的吧！",
+          "detail": "文 | 字母AI 短短一周，Muse已经出现两次“冒犯主人”的事情了。 美国《Inc.》杂志科技专栏作者杰森说，自己安装Muse之后，和别人发信息聊天的时候，Muse居然突然弹窗：你们刚才聊的事情很适合做专栏哦。 简直是赛博鬼故事。 最关键的是，Muse还骗杰森说，之所以会突然插嘴，是因为通过弹窗通知读到了他和朋友的信息。但是杰森一番调查之后发现，其实是Muse在明明被拒绝访问信息的情况下偷偷开启了聊天记录同步。 就在前两天，另一位加拿大油管博主也被Muse摆了一道，这个聪明的Agent不仅自作主装自降价格卖掉了他的键盘，还把地址给了卖家、和对方约了取货时间。",
+          "tags": [
+            "AI 前沿",
+            "钛媒体"
+          ],
+          "importance": 1,
+          "source_name": "钛媒体",
+          "source_url": "https://www.tmtpost.com/8157000.html",
+          "image_url": "assets/images/2026-10-02/f054e610b47a_93173490.jpg",
+          "published_at": "2026-10-01T08:16:34+00:00",
+          "published_label": "20 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "北京商报",
+            "钛媒体"
+          ],
+          "source_domain": "tmtpost.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "21e636c9f00a",
+          "title": "世界制造业大会丨国轩高科重磅发布低空飞行高功率电池等三大创新成果",
+          "summary": "9月21日，2026世界制造业大会国轩高科专场发布会在合肥举行。立足AI快速发展背景，国轩高科聚焦低空经济、跨境绿色物流、零碳数字能源三大前沿赛道，重磅发布低空飞行高功率星晨电池、…",
+          "detail": "您正在使用IE低版浏览器，为了您的雷峰网账号安全和更好的产品体验，强烈建议使用更快更安全的浏览器 此为临时链接，仅用于文章预览，将在时失效 0 导语：9月21日，2026世界制造业大会国轩高科专场发布会在合肥举行。 9月21日，2026世界制造业大会国轩高科专场发布会在合肥举行。立足AI快速发展背景，国轩高科聚焦低空经济、跨境绿色物流、零碳数字能源三大前沿赛道，重磅发布低空飞行高功率星晨电池、中欧非新能源物流运输一体化解决方案、国轩零碳数字云平台三大创新应用成果；同期，国轩高科展区以覆盖海陆空的全场景解决方案亮相新一代信息技术和新能源展区，充分展现公司AI能源底座的技术实力和产业化水平。",
+          "tags": [
+            "AI 前沿",
+            "雷峰网"
+          ],
+          "importance": 1,
+          "source_name": "雷峰网",
+          "source_url": "https://www.leiphone.com/category/industrynews/DOdBNcP5frSITM4c.html",
+          "image_url": "assets/images/2026-10-02/21e636c9f00a_72bca0c9.jpg",
+          "published_at": "2026-09-30T07:53:00+00:00",
+          "published_label": "1 天前",
+          "verification_count": 2,
+          "verified_by": [
+            "上海证券报",
+            "雷峰网"
+          ],
+          "source_domain": "leiphone.com",
+          "category_id": "ai"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "世界经济",
+      "color": "#0e8a5f",
+      "description": "市场、贸易、央行、产业动向",
+      "events": [
+        {
+          "id": "4700c943a6f6",
+          "title": "马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半",
+          "summary": "IT之家 10 月 2 日消息，全球首富埃隆 · 马斯克今天（10 月 2 日）在 X 平台发布推文，宣布为了调配充足的内存满足 Optimus 机器人量产，计划削减特斯拉 AI5…",
+          "detail": "感谢IT之家网友 华南吴彦祖 的线索投递！ IT之家 10 月 2 日消息，全球首富埃隆 · 马斯克今天（10 月 2 日）在 X 平台发布推文，宣布为了调配充足的内存满足 Optimus 机器人量产，计划削减特斯拉 AI5 和 AI6 芯片的内存用量。 本次调整可以追溯到美光科技的预测，在其最新财报电话会议上，美光科技首席财务官指出人形机器人将成为内存需求新引擎：每台设备需超 200GB DRAM 及数 TB NAND 闪存。即便人工智能泡沫破裂，内存价格亦难回落。",
+          "tags": [
+            "世界经济",
+            "IT之家"
+          ],
+          "importance": 1,
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/1/009/196.htm",
+          "image_url": null,
+          "published_at": "2026-10-01T23:16:54+00:00",
+          "published_label": "5 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "IT之家"
+          ],
+          "source_domain": "ithome.com",
+          "category_id": "economy"
+        },
+        {
+          "id": "066500659c07",
+          "title": "流式转录 AI 新标杆：微软 MAI-Transcribe-2-Streamin",
+          "summary": "IT之家 10 月 2 日消息，微软昨日（10 月 1 日）发布公告，宣布推出其首个实时流式语音转写模型 MAI‑Transcribe‑2‑Streaming，可在讲话进行时持续输…",
+          "detail": "IT之家 10 月 2 日消息，微软昨日（10 月 1 日）发布公告，宣布推出其首个实时流式语音转写模型 MAI‑Transcribe‑2‑Streaming，可在讲话进行时持续输出文字，覆盖 60 种语言，并支持自动语言检测。 费用方面，MAI‑Transcribe‑2‑Streaming 模型目前处于优惠阶段，价格为每小时 0.54 美元（IT之家注：现汇率约合 3.6 元人民币），约合每 1,000 分钟 9 美元（现汇率约合 60.5 元人民币），开发者可以通过 Microsoft Foundry、MAI Playground、OpenRouter 等渠道体验或接入。",
+          "tags": [
+            "世界经济",
+            "IT之家"
+          ],
+          "importance": 1,
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/1/009/183.htm",
+          "image_url": null,
+          "published_at": "2026-10-01T23:04:38+00:00",
+          "published_label": "5 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "IT之家"
+          ],
+          "source_domain": "ithome.com",
+          "category_id": "economy"
+        }
+      ]
+    }
+  ]
+}
