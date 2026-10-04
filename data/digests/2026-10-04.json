@@ -1,0 +1,432 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T12:51:28.048556+08:00",
+  "site_title": "每日热点简报",
+  "site_tagline": "自动聚合社会热点、时事政策、世界格局与世界经济",
+  "feed_names": [
+    "36氪",
+    "IT之家",
+    "东方财富",
+    "中新网国际",
+    "中新网时政",
+    "中新网滚动新闻",
+    "中新网社会",
+    "中新网财经",
+    "人民网时政",
+    "光明网时政",
+    "共同社中文",
+    "新华网时政",
+    "联合早报·国际",
+    "量子位",
+    "钛媒体",
+    "雷峰网",
+    "香港文汇网"
+  ],
+  "hero": {
+    "id": "4caa76fef76e",
+    "title": "外媒热议平陆运河全线通航",
+    "summary": "历经4年建设，平陆运河近日全线通航。这是新中国成立以来第一条国家层面统筹建设的通江达海的大运河，其工程规模、创新技术、重大意义等引发外媒热议。",
+    "detail": "外媒热议平陆运河全线通航 历经4年建设，平陆运河近日全线通航。这是新中国成立以来第一条国家层面统筹建设的通江达海的大运河，其工程规模、创新技术、重大意义等引发外媒热议。 越南《岘港报》认为，平陆运河是国际陆海贸易新通道的重要组成部分，将通过货物、投资和跨境合作进一步加强中国与东盟之间的经济联系。对每年向中国大量出口水果、大米、咖啡、水产品的东盟国家而言，平陆运河意味着增加一种大批量、低成本的物流选择。 卡塔尔半岛电视台网站说，在平陆运河通航之际，中国与东盟的贸易正快速增长。中国海关总署的数据显示，2026年上半年，中国对东盟的进出口达4.34万亿元人民币，同比增长18.2%。",
+    "tags": [
+      "社会热点",
+      "中新网滚动新闻"
+    ],
+    "importance": 2,
+    "source_name": "中新网滚动新闻",
+    "source_url": "https://www.chinanews.com.cn/gj/2026/10-04/10707756.shtml",
+    "image_url": "assets/images/2026-10-04/4caa76fef76e_22c3ebfb.jpg",
+    "published_at": "2026-10-04T03:51:24+00:00",
+    "published_label": "1 小时前",
+    "verification_count": 2,
+    "verified_by": [
+      "中新网滚动新闻",
+      "中新网社会",
+      "光明网时政"
+    ],
+    "source_domain": "chinanews.com.cn",
+    "category_id": "hot"
+  },
+  "categories": [
+    {
+      "id": "hot",
+      "name": "社会热点",
+      "color": "#d92c20",
+      "description": "民生、教育、医疗、社会事件",
+      "events": [
+        {
+          "id": "4caa76fef76e",
+          "title": "外媒热议平陆运河全线通航",
+          "summary": "历经4年建设，平陆运河近日全线通航。这是新中国成立以来第一条国家层面统筹建设的通江达海的大运河，其工程规模、创新技术、重大意义等引发外媒热议。",
+          "detail": "外媒热议平陆运河全线通航 历经4年建设，平陆运河近日全线通航。这是新中国成立以来第一条国家层面统筹建设的通江达海的大运河，其工程规模、创新技术、重大意义等引发外媒热议。 越南《岘港报》认为，平陆运河是国际陆海贸易新通道的重要组成部分，将通过货物、投资和跨境合作进一步加强中国与东盟之间的经济联系。对每年向中国大量出口水果、大米、咖啡、水产品的东盟国家而言，平陆运河意味着增加一种大批量、低成本的物流选择。 卡塔尔半岛电视台网站说，在平陆运河通航之际，中国与东盟的贸易正快速增长。中国海关总署的数据显示，2026年上半年，中国对东盟的进出口达4.34万亿元人民币，同比增长18.2%。",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/gj/2026/10-04/10707756.shtml",
+          "image_url": "assets/images/2026-10-04/4caa76fef76e_22c3ebfb.jpg",
+          "published_at": "2026-10-04T03:51:24+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网滚动新闻",
+            "中新网社会",
+            "光明网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "name": "时事政策",
+      "color": "#1f6feb",
+      "description": "政府文件、法律法规、改革举措",
+      "events": [
+        {
+          "id": "588c44d07990",
+          "title": "国庆假期 海军编队坚守战位 护卫国际航道安全",
+          "summary": "这个假期，有人假日不休、生产不停，还有人坚守战位、守护安全。国庆佳节，正在远海执行护航任务的海军第49批护航编队，举行了一场特殊的升旗仪式。",
+          "detail": "国庆假期 海军编队坚守战位 护卫国际航道安全 这个假期，有人假日不休、生产不停，还有人坚守战位、守护安全。国庆佳节，正在远海执行护航任务的海军第49批护航编队，举行了一场特殊的升旗仪式。五星红旗在深蓝大洋上升起，护航官兵坚守战位，用忠诚与担当，在远海大洋护卫国际航道安全。 亲手升起这面国旗的是昆明舰信号班班长周子璇。入伍9年，这是她第一次参加护航，也是第一次在海外参与升旗仪式。 周子璇除了要负责升旗与信号旗的挂设外，还肩负着日常对外沟通联络。在护航任务中，要经常与被护船舶沟通交流，她的声音是可以听见的安全感，她的底气是身后战友全员就位、护卫国际航道安全绝不后退的决心。",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 2,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/10-03/10707660.shtml",
+          "image_url": "assets/images/2026-10-04/588c44d07990_b706f5f4.jpg",
+          "published_at": "2026-10-03T14:07:07+00:00",
+          "published_label": "14 小时前",
+          "verification_count": 4,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "中新网国际",
+            "中新网时政",
+            "中新网滚动新闻",
+            "中新网社会",
+            "中新网财经",
+            "新华网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "6f844a740644",
+          "title": "我国首个深水油田流花油田取得新突破 “国之重器”协同运转",
+          "summary": "这个国庆假期，我国深水油田产油量再获新突破。今天，我国首个深水油田——流花油田二次开发项目累计生产原油突破200万吨。",
+          "detail": "我国首个深水油田流花油田取得新突破 “国之重器”协同运转 这个国庆假期，我国深水油田产油量再获新突破。今天，我国首个深水油田——流花油田二次开发项目累计生产原油突破200万吨。截至目前，油田已生产原油超过4000万吨，日产量达到了投产22年来的新高，为保障国家能源安全提供了坚实保障。 国之重器“海基二号”“海葵一号”协同运转 流花油田二次开发项目位于珠江口盆地海域，作业平均水深305米，依托亚洲第一深水导管架平台“海基二号”、亚洲首艘圆筒型海上油气加工厂“海葵一号”以及水下生产系统协同作业。这两座海上形态各异的“国之重器”如何安全高效协同运转？流花油田交出了一份深水大型设施运维的“中国方案”。",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 2,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/10-03/10707663.shtml",
+          "image_url": "assets/images/2026-10-04/6f844a740644_de1e19ef.jpg",
+          "published_at": "2026-10-03T14:10:57+00:00",
+          "published_label": "14 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "中新网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "世界格局",
+      "color": "#b7791f",
+      "description": "地缘政治、国际冲突、全球秩序",
+      "events": [
+        {
+          "id": "6ee01cd30af2",
+          "title": "2026亞運會｜黃澤林網球男單封王創歷史：相信自己 拚出香港精神",
+          "summary": "（香港文匯報記者葉詩敏 名古屋報道）第20屆亞運會網球男子單打決賽，本地網球「一哥」黃澤林（Coleman）最終以6：2及6：4，直落兩盤擊敗國家隊球手吳易昺，贏得港隊史上首面亞運…",
+          "detail": "（香港文匯報記者葉詩敏 名古屋報道）第20屆亞運會網球男子單打決賽，本地網球「一哥」黃澤林（Coleman）最終以6：2及6：4，直落兩盤擊敗國家隊球手吳易昺，贏得港隊史上首面亞運網球金牌，助港隊今屆亞運累積11金19銀24銅共54面獎牌，金牌數及總獎牌數均創下史上最佳成績。這名土生土長的網球少年一路走到亞洲之巔，賽後留下那句「相信自己」不僅是他奪金路上的座右銘，更是對港人拚搏精神的完美演繹。",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 2,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202610/04/AP6ac198b0e4b01d54a285ce5e.html",
+          "image_url": "assets/images/2026-10-04/6ee01cd30af2_b3d7acbd.jpg",
+          "published_at": "2026-10-04T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 6,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "中新网滚动新闻",
+            "中新网社会",
+            "人民网时政",
+            "光明网时政",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "68a206a0dd8b",
+          "title": "OpenAI前员工：AI应采用“核电厂等级”安全管控",
+          "summary": "人工智能（AI）业界再有一线人员对AI风险提出严正警告。OpenAI一名专注于AI安全的员工罗宾逊（David Robinson）日前辞职，并发表文章警告，顶尖AI公司在降低技术风…",
+          "detail": "人工智能（AI）业界再有一线人员对AI风险提出严正警告。OpenAI一名专注于AI安全的员工罗宾逊（David Robinson）日前辞职，并发表文章警告，顶尖AI公司在降低技术风险方面做得不够，应采取“核电厂等级”的安全管控措施。 罗宾逊此前领导OpenAI安全团队的透明度工作。他星期五（10月2日）在《大西洋月刊》发表文章写道，这家ChatGPT的开发商“靠不断试错而蓬勃发展”。 他认为，随着AI技术能力的提升，这种作业模式必然产生失败案例，相关风险也日益加剧。他以OpenAI未能在测试中防止AI代理失控为例加以说明。 他写道：“我的前同事们都很聪明、工作努力，也努力做出正确的选择。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261003-9779909",
+          "image_url": "assets/images/2026-10-04/68a206a0dd8b_3d4afe0c.jpg",
+          "published_at": "2026-10-03T12:00:00+00:00",
+          "published_label": "16 小时前",
+          "verification_count": 5,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "联合早报·国际",
+            "量子位",
+            "雷峰网"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "181bb180e67c",
+          "title": "快讯：冲绳县警方以抢劫杀人嫌疑逮捕一美军士兵",
+          "summary": "【共同社10月4日电】冲绳县那霸市一家宾馆3日凌晨发现一名女性遗体。关于此案，该县警方4日以涉嫌抢劫杀人逮捕了一名隶属于美军普天间机场（宜野湾市）的海军陆战队士兵（20岁）。",
+          "detail": "【共同社10月4日电】冲绳县那霸市一家宾馆3日凌晨发现一名女性遗体。关于此案，该县警方4日以涉嫌抢劫杀人逮捕了一名隶属于美军普天间机场（宜野湾市）的海军陆战队士兵（20岁）。日本外务事务次官船越健裕当天致电美国驻日大使格拉斯，提出强烈抗议。（完）",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 2,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/16449",
+          "image_url": "assets/images/2026-10-04/181bb180e67c_ba868097.jpg",
+          "published_at": "2026-10-04T03:42:21+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网国际",
+            "共同社中文",
+            "联合早报·国际"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        },
+        {
+          "id": "1ecff579a78c",
+          "title": "天宮守明月 神二十三乘組把空間站過出中秋味",
+          "summary": "神二十三乘組在軌駐留已四月有餘。上周，三名航天員將站內環境布置得溫馨喜慶，在軌度過中秋佳節。同時，空間科學實（試）驗、空間站組合體平台照料、健康管理等各項工作有序推進。",
+          "detail": "神二十三乘組在軌駐留已四月有餘。上周，三名航天員將站內環境布置得溫馨喜慶，在軌度過中秋佳節。同時，空間科學實（試）驗、空間站組合體平台照料、健康管理等各項工作有序推進。 （來源：中國載人航天工程辦公室） 責任編輯： 梁存希 評論成功，請等待管理員審核...",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 2,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202610/04/AP6ac1ba9de4b01d54a285d312.html",
+          "image_url": "assets/images/2026-10-04/1ecff579a78c_6b6358b0.jpg",
+          "published_at": "2026-10-04T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 3,
+          "verified_by": [
+            "IT之家",
+            "中新网时政",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "e1ee3d4be853",
+          "title": "伊拉克通过霍尔木兹海峡运送200万桶原油",
+          "summary": "伊拉克国家油轮公司宣布，使用超大型油轮通过霍尔木兹海峡运送了200万桶原油。 路透社星期六（10月3日）报道，伊拉克国家油轮公司说，数十年来首次使用一艘超大型油轮，运载200万桶伊…",
+          "detail": "伊拉克国家油轮公司宣布，使用超大型油轮通过霍尔木兹海峡运送了200万桶原油。 路透社星期六（10月3日）报道，伊拉克国家油轮公司说，数十年来首次使用一艘超大型油轮，运载200万桶伊拉克原油通过了霍尔木兹海峡。 这一宣布显示，伊拉克现在可以通过霍尔木兹海峡运送原油，而不是在巴士拉港口（Basra）交货。这意味着伊拉克国家石油营销组织（SOMO）在原油销售的方式和地点上，拥有了更大的灵活性。 国家油轮公司总经理阿卜杜勒-贾巴尔（Ali Qais Abdul Jabbar）指出，这能让SOMO享受到更好的销售和定价机会。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261004-9780858",
+          "image_url": "assets/images/2026-10-04/e1ee3d4be853_7a01fc8e.jpg",
+          "published_at": "2026-10-04T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网国际",
+            "联合早报·国际"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "7646071a7c55",
+          "title": "点击榜TOP5（10月4日）",
+          "summary": ".m-article-item-ttl__link { color: blue; } 1） 详讯：美军将在冲绳与那国岛部署反舰导弹系统2） 前防卫相小野寺称日本决定购买乌克兰无人机…",
+          "detail": "1） 详讯：美军将在冲绳与那国岛部署反舰导弹系统 2） 前防卫相小野寺称日本决定购买乌克兰无人机 3） 朝鲜发射弹道导弹 日本提出严正抗议 4） 日本与卡塔尔确认加强能源合作 5） 陆上自卫队健军驻地向公众展示长射程导弹 （10月4日 09:00 统计）",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 2,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/16448",
+          "image_url": "assets/images/2026-10-04/7646071a7c55_4c160508.jpg",
+          "published_at": "2026-10-04T01:00:00+00:00",
+          "published_label": "3 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "共同社中文",
+            "香港文汇网"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI 前沿",
+      "color": "#6d5ae0",
+      "description": "人工智能、大模型、机器人、AI 应用",
+      "events": [
+        {
+          "id": "a730dc743d2c",
+          "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+          "summary": "专业3D模型反而更稀缺了",
+          "detail": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元 专业3D模型反而更稀缺了 听雨 发自 凹非寺 量子位 | 公众号QbitAI GPT-6 Astra一发布，3D圈已经坐不住了… 它能用Blender盖出这样一栋房子，再直接导进Unreal Engine 5，变成能走进去逛的漫游场景： 社交媒体上，网友很快玩出了更多新花样。 有人通过Blender MCP，仅凭文字提示，就让Astra从零搭出一整条医院走廊： 好好好，的确很惊艳。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 2,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/10/501451.html",
+          "image_url": "assets/images/2026-10-04/a730dc743d2c_20392753.gif",
+          "published_at": "2026-10-04T00:53:29+00:00",
+          "published_label": "3 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "财联社",
+            "量子位",
+            "雷峰网"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "4451b333657f",
+          "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+          "summary": "岗位JD甩了篇技术报告",
+          "detail": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师 岗位JD甩了篇技术报告 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI DeepSeek又开始捞人了。 弹性计算团队大量HC招人！尤其需要资深工程师。 三周前不是刚招过一轮吗？咋又缺人了。 这次没发岗位JD，直接甩了一篇DeepSeek技术分享： 《DeepSeek弹性计算（DSec）：面向大规模Agent训练的沙盒基础设施》 现在DeepSeek的一套DSec扩展分片，大约有160台服务器、3万个CPU核心和250TB内存，每天要服务约300万个沙盒。 高峰期，同时在线的沙盒超过38万个，每秒还能创建5000多个。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 1,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/10/501381.html",
+          "image_url": "assets/images/2026-10-04/4451b333657f_924ed539.png",
+          "published_at": "2026-10-03T07:54:43+00:00",
+          "published_label": "20 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "量子位",
+            "雷峰网"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "569d23598528",
+          "title": "《Gran Turismo 7》迎来首台中国VGT 同时GT史上30年首次新增电",
+          "summary": "新加坡，2026 年 10 月 3 日 —— 今日，在新加坡 Gran Turismo World Series（GT World Series）赛事现场，Gran Turismo…",
+          "detail": "您正在使用IE低版浏览器，为了您的雷峰网账号安全和更好的产品体验，强烈建议使用更快更安全的浏览器 此为临时链接，仅用于文章预览，将在时失效 0 导语：新加坡 GT World Series：Xiaomi Vision Gran Turismo即将登陆《Gran Turismo 7》，首次迎来电车驾驶教学。",
+          "tags": [
+            "AI 前沿",
+            "雷峰网"
+          ],
+          "importance": 1,
+          "source_name": "雷峰网",
+          "source_url": "https://www.leiphone.com/category/industrynews/YE7qzr0QKUUwu5eL.html",
+          "image_url": "assets/images/2026-10-04/569d23598528_dd7501da.jpg",
+          "published_at": "2026-10-03T11:39:00+00:00",
+          "published_label": "17 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "雷峰网"
+          ],
+          "source_domain": "leiphone.com",
+          "category_id": "ai"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "世界经济",
+      "color": "#0e8a5f",
+      "description": "市场、贸易、央行、产业动向",
+      "events": [
+        {
+          "id": "8026c41cb4a4",
+          "title": "索尼 PlayStation Stars 奖励计划下月永久关停：赶紧花掉你手里的",
+          "summary": "IT之家 10 月 4 日消息，PlayStation 用户仅剩一个月时间，可以继续使用索尼的一项重要服务，之后这项服务就将永久关停。",
+          "detail": "IT之家 10 月 4 日消息，PlayStation 用户仅剩一个月时间，可以继续使用索尼的一项重要服务，之后这项服务就将永久关停。 PlayStation Stars 是索尼在 2022 年推出的 PlayStation 官方忠诚度奖励计划，玩家免费注册后，通过购买游戏、完成挑战或每月游玩等方式获取积分，再用积分兑换 PSN 钱包余额、数字版游戏和数字收藏品等奖励。 可惜 PlayStation Stars 服务将于下个月正式关闭，2026 年 11 月 2 日将是玩家登录并兑换手中剩余 PlayStation Stars 奖励的最后日期，积分到期之后将会彻底清零。",
+          "tags": [
+            "世界经济",
+            "IT之家"
+          ],
+          "importance": 1,
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/1/009/601.htm",
+          "image_url": null,
+          "published_at": "2026-10-04T00:43:46+00:00",
+          "published_label": "4 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "IT之家"
+          ],
+          "source_domain": "ithome.com",
+          "category_id": "economy"
+        },
+        {
+          "id": "b6f3feca21d3",
+          "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店",
+          "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 4 日星期日，今天的重要科技资讯有： 1. 华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部…",
+          "detail": "“IT早报”时间，大家好，现在是 2026 年 10 月 4 日星期日，今天的重要科技资讯有： 1. 华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型 在 10 月 1 日的发布会上，华为年度旗舰 Mate 90 系列正式发布。极客湾发布了一期针对华为 Mate 90 Pro Max 的性能分析报告。结果显示，新机能效提升明显，在部分游戏上已优于第五代骁龙 8 至尊版机型。",
+          "tags": [
+            "世界经济",
+            "IT之家"
+          ],
+          "importance": 1,
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/1/009/594.htm",
+          "image_url": null,
+          "published_at": "2026-10-03T23:51:59+00:00",
+          "published_label": "4 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "IT之家"
+          ],
+          "source_domain": "ithome.com",
+          "category_id": "economy"
+        }
+      ]
+    }
+  ]
+}
