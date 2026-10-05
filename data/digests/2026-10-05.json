@@ -1,0 +1,481 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T12:39:20.323418+08:00",
+  "site_title": "每日热点简报",
+  "site_tagline": "自动聚合社会热点、时事政策、世界格局与世界经济",
+  "feed_names": [
+    "36氪",
+    "IT之家",
+    "东方财富",
+    "中新网国际",
+    "中新网时政",
+    "中新网滚动新闻",
+    "中新网社会",
+    "中新网财经",
+    "人民网时政",
+    "光明网时政",
+    "共同社中文",
+    "新华网时政",
+    "联合早报·国际",
+    "量子位",
+    "钛媒体",
+    "雷峰网",
+    "香港文汇网"
+  ],
+  "hero": {
+    "id": "1842fe9084c9",
+    "title": "广东揭阳：国庆假期 民众乐享海边休闲时光",
+    "summary": "10月4日，国庆假期，民众在广东省揭阳市惠来县的海边乐享休闲时光。中新社记者 陈楚红 摄 10月4日，国庆假期，民众在广东省揭阳市惠来县的海边乐享休闲时光。",
+    "detail": "人均带三个空箱来华购物的“China Haul”火了 长衫藏港韵 针线有乾坤 通胀冲击历史性升温，日本民众餐桌承压 景区NPC丰富文化体验 中国人从“看景”到“搭戏”青睐沉浸感 万亿级车轮经济跑出新动能 国庆文旅消费从“打卡观光”转向“深度体验” “十·一”黄金周，为什么越来越多人涌向主题公园？ 探访杭州“无声烧饼摊”：烟火街巷里，圆残疾人就业梦 鲁迅家门口的文创热 中国“交旅融合”焕新体验 盘活旅途“闲置”时空 让机器人“能干活” 具身智能从“中国量产”走向“全球落地” 这支巴西球队为何三年国庆赴约贵州“村超”？",
+    "tags": [
+      "社会热点",
+      "中新网滚动新闻"
+    ],
+    "importance": 2,
+    "source_name": "中新网滚动新闻",
+    "source_url": "https://www.chinanews.com.cn/tp/2026/10-05/10708027.shtml",
+    "image_url": "assets/images/2026-10-05/1842fe9084c9_477e538c.jpeg",
+    "published_at": "2026-10-05T03:13:47+00:00",
+    "published_label": "1 小时前",
+    "verification_count": 5,
+    "verified_by": [
+      "36氪",
+      "IT之家",
+      "中新网滚动新闻",
+      "中新网社会",
+      "中新网财经",
+      "光明网时政",
+      "新华网时政"
+    ],
+    "source_domain": "chinanews.com.cn",
+    "category_id": "hot"
+  },
+  "categories": [
+    {
+      "id": "hot",
+      "name": "社会热点",
+      "color": "#d92c20",
+      "description": "民生、教育、医疗、社会事件",
+      "events": [
+        {
+          "id": "1842fe9084c9",
+          "title": "广东揭阳：国庆假期 民众乐享海边休闲时光",
+          "summary": "10月4日，国庆假期，民众在广东省揭阳市惠来县的海边乐享休闲时光。中新社记者 陈楚红 摄 10月4日，国庆假期，民众在广东省揭阳市惠来县的海边乐享休闲时光。",
+          "detail": "人均带三个空箱来华购物的“China Haul”火了 长衫藏港韵 针线有乾坤 通胀冲击历史性升温，日本民众餐桌承压 景区NPC丰富文化体验 中国人从“看景”到“搭戏”青睐沉浸感 万亿级车轮经济跑出新动能 国庆文旅消费从“打卡观光”转向“深度体验” “十·一”黄金周，为什么越来越多人涌向主题公园？ 探访杭州“无声烧饼摊”：烟火街巷里，圆残疾人就业梦 鲁迅家门口的文创热 中国“交旅融合”焕新体验 盘活旅途“闲置”时空 让机器人“能干活” 具身智能从“中国量产”走向“全球落地” 这支巴西球队为何三年国庆赴约贵州“村超”？",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/tp/2026/10-05/10708027.shtml",
+          "image_url": "assets/images/2026-10-05/1842fe9084c9_477e538c.jpeg",
+          "published_at": "2026-10-05T03:13:47+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 5,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "中新网滚动新闻",
+            "中新网社会",
+            "中新网财经",
+            "光明网时政",
+            "新华网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        },
+        {
+          "id": "a4c106c68c6d",
+          "title": "巴西大选10月25日进行第二轮角逐",
+          "summary": "中新社圣保罗10月4日电 (记者 林春茵)当地时间4日晚，巴西高等选举法院公布巴西总统选举首轮投票结果显示，参选候选人中无人得票超过半数，得票最多的前总统雅伊尔·博索纳罗之子、自由…",
+          "detail": "巴西大选10月25日进行第二轮角逐 中新社圣保罗10月4日电 (记者 林春茵)当地时间4日晚，巴西高等选举法院公布巴西总统选举首轮投票结果显示，参选候选人中无人得票超过半数，得票最多的前总统雅伊尔·博索纳罗之子、自由党候选人弗拉维奥·博索纳罗和巴西现任总统、劳工党候选人卢拉将于10月25日进行第二轮角逐。 在首轮投票中，据对98.78%选票的统计结果，弗拉维奥·博索纳罗获得约47.24%有效选票，居第一位；卢拉以44.91%的得票率排名第二。其余候选人得票率均低于5%，不再参与竞逐。",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/gj/2026/10-05/10708067.shtml",
+          "image_url": "assets/images/2026-10-05/a4c106c68c6d_22c3ebfb.jpg",
+          "published_at": "2026-10-05T04:25:29+00:00",
+          "published_label": "13 分钟前",
+          "verification_count": 3,
+          "verified_by": [
+            "IT之家",
+            "上海证券报",
+            "中新网滚动新闻"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "name": "时事政策",
+      "color": "#1f6feb",
+      "description": "政府文件、法律法规、改革举措",
+      "events": [
+        {
+          "id": "1c9c14582d79",
+          "title": "司法部：2025年共调解各类案件1653.7万件",
+          "summary": "记者日前从司法部获悉，目前全国共有人民调解委员会69.7万个，其中村(社区)调委会61.2万个，乡镇(街道)调委会4万个；行业性专业性调委会和工作室5.4万个；",
+          "detail": "司法部：2025年共调解各类案件1653.7万件 记者日前从司法部获悉，目前全国共有人民调解委员会69.7万个，其中村(社区)调委会61.2万个，乡镇(街道)调委会4万个；行业性专业性调委会和工作室5.4万个；全国共有人民调解员310.2万人，其中专职调解员56万人，基本形成覆盖城乡社区和重点领域、单位的调解组织网络。2025年，共调解各类案件1653.7万件，调解成功率96.5%，调解协议履行率94%。 同时，目前全国已累计培育“法律明白人”440万人，村“两委”成员、人民调解员、网格员约占50%，基本实现每个村(社区)有3名以上“法律明白人”。",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 1,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/10-04/10707731.shtml",
+          "image_url": "assets/images/2026-10-05/1c9c14582d79_b706f5f4.jpg",
+          "published_at": "2026-10-04T03:02:11+00:00",
+          "published_label": "1 天前",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网时政",
+            "新华网时政",
+            "钛媒体"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "2d734cf8ce62",
+          "title": "“重走长征路”上热搜 “长征游”圈粉年轻人",
+          "summary": "新华社西安10月4日电(记者邹竞一)国庆假期，陕西吴起县中央红军长征胜利纪念馆，延安市新区高级中学学生王茜湲、齐思成各自掏出一份打印好的问题清单——“吴起长征文化最独特的精神内涵是…",
+          "detail": "“重走长征路”上热搜 “长征游”圈粉年轻人 新华社西安10月4日电(记者邹竞一)国庆假期，陕西吴起县中央红军长征胜利纪念馆，延安市新区高级中学学生王茜湲、齐思成各自掏出一份打印好的问题清单——“吴起长征文化最独特的精神内涵是什么？”“如何用长征精神关照当下？”他们是土生土长的吴起人，想利用假期更好了解长征历史，“把家乡的红色故事讲给更多朋友”。 今年是长征胜利90周年，记者在延安多个红色旧址走访发现，像这样的年轻面孔不在少数。数据显示，今年上半年，红色景区门票预订热度同比增长86%，18岁至35岁游客订单占比突破50%。年轻人正成为红色旅游的主力军。",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 2,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/10-05/10708041.shtml",
+          "image_url": "assets/images/2026-10-05/2d734cf8ce62_87db6651.png",
+          "published_at": "2026-10-05T02:28:26+00:00",
+          "published_label": "2 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网时政",
+            "新华网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "世界格局",
+      "color": "#b7791f",
+      "description": "地缘政治、国际冲突、全球秩序",
+      "events": [
+        {
+          "id": "26460424f70d",
+          "title": "OpenAI奥尔特曼：AI效益巨大 值得承担一些风险",
+          "summary": "美国人工智能巨头OpenAI首席执行官奥尔特曼称，OpenAI和竞争对手Anthropic在人工智能监管立场上存在很大不同，并指AI能够带来的巨大效益，值得人们去承担一些伴随而来的…",
+          "detail": "美国人工智能巨头OpenAI首席执行官奥尔特曼称，OpenAI和竞争对手Anthropic在人工智能监管立场上存在很大不同，并指AI能够带来的巨大效益，值得人们去承担一些伴随而来的风险。 在Politico旗下科技新闻栏目Decoded星期一（10月5日）发布的专访中，奥尔特曼分享了上述观点。 他说：“我们相信，为了获得这项技术（AI）带来的好处，并让人们拥有自主权，世界应该接受一些坏事的发生。” 他也说，OpenAI和Anthropic在AI监管的世界观上存在“根本性不同”。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261005-9785022",
+          "image_url": "assets/images/2026-10-05/26460424f70d_7722126a.jpg",
+          "published_at": "2026-10-05T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 5,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "联合早报·国际",
+            "量子位",
+            "雷峰网"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "cb15af6c0c8c",
+          "title": "2026亞運會｜王楚欽三銀登中國代表團收官海報，網友吵翻了！",
+          "summary": "10月4日，名古屋亞運會落幕，中國代表團收穫豐碩戰績。《中國體育報》發布中國代表團總結海報，約110名健兒中絕大多數手持金牌，本屆收穫3銀的王楚欽也在其中，引發熱議。",
+          "detail": "10月4日，名古屋亞運會落幕，中國代表團收穫豐碩戰績。《中國體育報》發布中國代表團總結海報，約110名健兒中絕大多數手持金牌，本屆收穫3銀的王楚欽也在其中，引發熱議。 本屆亞運會，王楚欽身兼男單、男團、混雙三項，全部打進決賽卻三次失利。爭議的核心，本質是大眾如何看待競技體育的價值。部分網友認為，收官海報是金牌榮耀的集中展示，在一眾冠軍中放入三銀選手，排布容易造成觀感割裂；另一部分觀點則認為，體育不該唯金牌論，銀牌同樣是拚盡全力換來的成果。本屆賽事王楚欽身兼男單、男團、混雙三項，全程多場硬仗連續作戰，每一塊銀牌，都是站上決賽賽場奮力拚搏的證明。 金牌是勝利的勳章，但競技賽場不止有一種敘事。",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 1,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202610/04/AP6ac1e77de4b01d54a285d863.html",
+          "image_url": "assets/images/2026-10-05/cb15af6c0c8c_08b1d7c5.jpg",
+          "published_at": "2026-10-04T12:00:00+00:00",
+          "published_label": "16 小时前",
+          "verification_count": 4,
+          "verified_by": [
+            "IT之家",
+            "人民网时政",
+            "光明网时政",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "313c8a5d42f0",
+          "title": "点击榜TOP5（10月5日）",
+          "summary": ".m-article-item-ttl__link { color: blue; } 1）详讯：冲绳县警方以抢劫杀人嫌疑逮捕一美军士兵 2）亚运会综合（3日）：日本83金刷新本国最…",
+          "detail": "1） 详讯：冲绳县警方以抢劫杀人嫌疑逮捕一美军士兵 2） 亚运会综合（3日）：日本83金刷新本国最佳成绩 3） 美企称中国黑客冒充日本防卫相小泉发送钓鱼邮件 4） 爱知·名古屋亚运会闭幕 日本创纪录地拿下83金 5） 快讯：日外相召见美驻日大使提出抗议 （10月5日 09:00 统计） 24小时点击榜TOP5｜👉过往热门新闻都在这里",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 2,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/16464",
+          "image_url": "assets/images/2026-10-05/313c8a5d42f0_c7da5659.jpg",
+          "published_at": "2026-10-05T00:00:00+00:00",
+          "published_label": "4 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "IT之家",
+            "共同社中文",
+            "钛媒体"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        },
+        {
+          "id": "2a42c2d920ab",
+          "title": "特朗普宣布成立「超級智能特別工作組」",
+          "summary": "當地時間10月4日，美國總統特朗普宣布成立「超級智能特別工作組」（Super Intelligence Force，SIF），負責協調美國聯邦政府在超級智能領域的相關工作。",
+          "detail": "當地時間10月4日，美國總統特朗普宣布成立「超級智能特別工作組」（Super Intelligence Force，SIF），負責協調美國聯邦政府在超級智能領域的相關工作。 特朗普表示，該工作組將協調聯邦政府與消費者、公共利益團體、宗教組織、關鍵基礎設施提供商以及超級智能企業之間的溝通與合作。 特朗普宣布，工作組將由美國國家情報總監傑伊·克萊頓、美國聯邦貿易委員會主席安德魯·弗格森、美國國防部首席技術官埃米爾·邁克爾，以及美國人事管理局局長斯科特·庫珀共同領導，並向美國總統特朗普和白宮辦公廳主任蘇茜·懷爾斯匯報。",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 1,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202610/04/AP6ac25159e4b01d54a285e32b.html",
+          "image_url": "assets/images/2026-10-05/2a42c2d920ab_a38a3d3a.jpg",
+          "published_at": "2026-10-04T12:00:00+00:00",
+          "published_label": "16 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网国际",
+            "中新网滚动新闻",
+            "财联社",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "2bb186ce80ab",
+          "title": "收到新威胁情报 美军紧急撤走所有驻英基地B-1轰炸机",
+          "summary": "由于收到伊朗支持势力可能对基地实施袭击的新情报，美军在过去的周末紧急将全部12架驻扎在英国费尔福德皇家空军基地的B-1轰炸机撤回本土。",
+          "detail": "由于收到伊朗支持势力可能对基地实施袭击的新情报，美军在过去的周末紧急将全部12架驻扎在英国费尔福德皇家空军基地的B-1轰炸机撤回本土。 《纽约时报》星期天（10月4日）引述两名匿名美国官员报道，美军指挥官收到了关于伊朗支持的、针对军事设施袭击阴谋的新情报，因此进行了紧急撤离。 匿名官员拒绝说明促使美军紧急撤离轰炸机的新情报的具体性质。不过其中一人表示，新情报与三周前出现的威胁警告属于同一性质，但具体细节和紧迫感在过去24小时内急剧攀升，引起指挥官们的高度警惕。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261005-9784116",
+          "image_url": "assets/images/2026-10-05/2bb186ce80ab_02360a1e.jpg",
+          "published_at": "2026-10-05T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网滚动新闻",
+            "联合早报·国际"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "8cb0a6cc140f",
+          "title": "冲绳知事拟就美兵涉嫌杀人案向首相要求防止再发",
+          "summary": "【共同社10月5日电】关于驻冲绳美军士兵因涉嫌抢劫杀人被逮捕一事，冲绳县知事古谢玄太5日表示，有意最快于本周前往东京与首相高市早苗会面。",
+          "detail": "【共同社10月5日电】关于驻冲绳美军士兵因涉嫌抢劫杀人被逮捕一事，冲绳县知事古谢玄太5日表示，有意最快于本周前往东京与首相高市早苗会面。古谢还表示将向首相告知拟就此事提出抗议，并“要求彻底调查，防止类似事件再次发生”。鉴于被迫承受过重美军基地负担的冲绳反复发生美军相关人员涉案事件，反弹情绪日益加剧。 古谢表示：“发生如此凶恶的犯罪，这实在是不容忽视的事态。” 冲绳县5日宣布，古谢将于当天下午在县政府召见驻冲绳美军最高指挥官“冲绳地区协调官”本杰明·沃森中将以及美国驻冲绳总领事安德鲁·欧提出抗议。 此次事件中，那霸市一家宾馆3日凌晨发现一名女性遗体。",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 2,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/16475",
+          "image_url": "assets/images/2026-10-05/8cb0a6cc140f_68bde5ad.jpg",
+          "published_at": "2026-10-05T02:35:45+00:00",
+          "published_label": "2 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网国际",
+            "共同社中文"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI 前沿",
+      "color": "#6d5ae0",
+      "description": "人工智能、大模型、机器人、AI 应用",
+      "events": [
+        {
+          "id": "2370493de448",
+          "title": "RSI再创奇迹！StartLux推出开源决策模型StartLux-Decisio",
+          "summary": "在独立的Decision Index 0.2.1评测中，27B版本得分63.88，38项基准中有31项高于Jev 1.13；",
+          "detail": "钛媒体注：9月30日，上海人工智能公司StartLux（原点星辉）推出开源决策模型StartLux-Decision，并一次性推出0.8B、2B、4B、9B、27B五档版本，多项评测数据高于TypeSafe AI 公司近期发布的Jev 1.13。以下为StartLux官方发布文章原文，来源于微信公众号StartLux Jev为大模型领域带来了一条全新的技术思路，在决策效率与响应速度上展现出很强的潜力。我们十分欣赏该团队的创新，也高度认可这一技术方向。智能体真正执行任务时，每一步等待都会累积，最终影响用户体验。",
+          "tags": [
+            "AI 前沿",
+            "钛媒体"
+          ],
+          "importance": 1,
+          "source_name": "钛媒体",
+          "source_url": "https://www.tmtpost.com/8158976.html",
+          "image_url": "assets/images/2026-10-05/2370493de448_5115860d.gif",
+          "published_at": "2026-10-04T08:32:00+00:00",
+          "published_label": "20 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "钛媒体"
+          ],
+          "source_domain": "tmtpost.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "a730dc743d2c",
+          "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+          "summary": "专业3D模型反而更稀缺了",
+          "detail": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元 专业3D模型反而更稀缺了 听雨 发自 凹非寺 量子位 | 公众号QbitAI GPT-6 Astra一发布，3D圈已经坐不住了… 它能用Blender盖出这样一栋房子，再直接导进Unreal Engine 5，变成能走进去逛的漫游场景： 社交媒体上，网友很快玩出了更多新花样。 有人通过Blender MCP，仅凭文字提示，就让Astra从零搭出一整条医院走廊： 好好好，的确很惊艳。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 1,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/10/501451.html",
+          "image_url": "assets/images/2026-10-05/a730dc743d2c_20392753.gif",
+          "published_at": "2026-10-04T00:53:29+00:00",
+          "published_label": "1 天前",
+          "verification_count": 3,
+          "verified_by": [
+            "财联社",
+            "量子位",
+            "雷峰网"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "4451b333657f",
+          "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+          "summary": "岗位JD甩了篇技术报告",
+          "detail": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师 岗位JD甩了篇技术报告 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI DeepSeek又开始捞人了。 弹性计算团队大量HC招人！尤其需要资深工程师。 三周前不是刚招过一轮吗？咋又缺人了。 这次没发岗位JD，直接甩了一篇DeepSeek技术分享： 《DeepSeek弹性计算（DSec）：面向大规模Agent训练的沙盒基础设施》 现在DeepSeek的一套DSec扩展分片，大约有160台服务器、3万个CPU核心和250TB内存，每天要服务约300万个沙盒。 高峰期，同时在线的沙盒超过38万个，每秒还能创建5000多个。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 1,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/10/501381.html",
+          "image_url": "assets/images/2026-10-05/4451b333657f_924ed539.png",
+          "published_at": "2026-10-03T07:54:43+00:00",
+          "published_label": "1 天前",
+          "verification_count": 3,
+          "verified_by": [
+            "IT之家",
+            "量子位",
+            "雷峰网"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "0a7b1ec1fd6e",
+          "title": "大厂卷 Jarvis，Samantha却在恋爱影游里冒了头？",
+          "summary": "至于 Samantha，说不定哪天下班打开屏幕，她已经在那头等你了。",
+          "detail": "文 | AI价值官，作者丨星野 说到 AGI 和人类友好相处的终极样子，电影科幻作品里大概就两种： 一种是《钢铁侠》里的 Jarvis，帮你干活的 AI 助手； 一种是《Her》里的 Samantha，陪你说话的 AI 伴侣。 Jarvis 这条路最近挤得不行，光最近两周，Meta 的 Muse、Manus 的 Cue、Openai 的 Dots，这些个人助手和 Personal Agent 就接连冒了出来。可 Samantha 这边，好像还没什么人认真接住。 我们一直觉得，Samantha 不会凭空出现。一个让人愿意天天找她说话的 AI，得先有故事、有脾气，你得先认识她。",
+          "tags": [
+            "AI 前沿",
+            "钛媒体"
+          ],
+          "importance": 1,
+          "source_name": "钛媒体",
+          "source_url": "https://www.tmtpost.com/8159072.html",
+          "image_url": "assets/images/2026-10-05/0a7b1ec1fd6e_310676bd.jpg",
+          "published_at": "2026-10-05T00:50:30+00:00",
+          "published_label": "3 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "IT之家",
+            "钛媒体"
+          ],
+          "source_domain": "tmtpost.com",
+          "category_id": "ai"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "世界经济",
+      "color": "#0e8a5f",
+      "description": "市场、贸易、央行、产业动向",
+      "events": [
+        {
+          "id": "ad218a0e19a2",
+          "title": "Linux 7.3-rc6 发布：Torvalds 称进入“AI 新常态”，稳定",
+          "summary": "IT之家 10 月 5 日消息，Linus Torvalds 于当地时间 10 月 4 日发布了 Linux 7.3-rc6 测试版。",
+          "detail": "IT之家 10 月 5 日消息，Linus Torvalds 于当地时间 10 月 4 日发布了 Linux 7.3-rc6 测试版。相比前一周较为特殊的代码变更统计，本周整体恢复正常，驱动修复重新占据大头。 不过，Torvalds 也特别提到，随着 AI 和大语言模型（LLM）的参与，这种“AI 新常态”已经成为当前 Linux 内核开发周期的一部分。 Torvalds 表示，本周没有出现异常情况，代码变更统计已经回到“约一半来自驱动修复”的常见状态。驱动侧涉及 GPU、网络、USB、TTY、IIO、音频等多个子系统，整体呈现出较为分散的修复特征。",
+          "tags": [
+            "世界经济",
+            "IT之家"
+          ],
+          "importance": 1,
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/1/009/781.htm",
+          "image_url": null,
+          "published_at": "2026-10-05T02:54:03+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "IT之家"
+          ],
+          "source_domain": "ithome.com",
+          "category_id": "economy"
+        },
+        {
+          "id": "8b153e046954",
+          "title": "宝马中国 2027 年产品规划路线图曝光：iX1 长轴距版与 3 系长轴距版有望",
+          "summary": "IT之家 10 月 5 日消息，宝马在 2026 资本市场日活动的相关文件中披露了一张面向中国市场的产品路线图，其中展示了数款身披伪装车衣、计划于 2027 年底前登陆中国市场的神…",
+          "detail": "IT之家 10 月 5 日消息，宝马在 2026 资本市场日活动的相关文件中披露了一张面向中国市场的产品路线图，其中展示了数款身披伪装车衣、计划于 2027 年底前登陆中国市场的神秘车型。 这张路线图并未标注具体车型名称，但结合宝马当前的产品规划，BMWBlog 对其中的蒙布车型给出了若干推测。 已明确出现在路线图中的车型包括：iX3 长轴距版将于 2026 年第四季度推出；2027 年第一季度，i3 长轴距版、新款 7 系及纯电版 i7、全新 X5 以及纯电版 iX5 将密集上市。 2027 年第二至第四季度，还将有四款新车陆续发布，但宝马未公开具体车型。",
+          "tags": [
+            "世界经济",
+            "IT之家"
+          ],
+          "importance": 1,
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/1/009/747.htm",
+          "image_url": null,
+          "published_at": "2026-10-05T00:24:57+00:00",
+          "published_label": "4 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "IT之家"
+          ],
+          "source_domain": "ithome.com",
+          "category_id": "economy"
+        }
+      ]
+    }
+  ]
+}
