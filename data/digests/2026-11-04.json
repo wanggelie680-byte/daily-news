@@ -1,0 +1,558 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T13:21:12.524915+08:00",
+  "site_title": "每日热点简报",
+  "site_tagline": "自动聚合社会热点、时事政策、世界格局与世界经济",
+  "feed_names": [
+    "36氪",
+    "IT之家",
+    "东方财富",
+    "中新网国际",
+    "中新网时政",
+    "中新网滚动新闻",
+    "中新网社会",
+    "中新网财经",
+    "人民网时政",
+    "光明网时政",
+    "共同社中文",
+    "新华网时政",
+    "联合早报·国际",
+    "量子位",
+    "钛媒体",
+    "雷峰网",
+    "香港文汇网"
+  ],
+  "hero": {
+    "id": "6230f4914260",
+    "title": "AI按摩机器人手法如何 记者在“互联网之光”现场体验",
+    "summary": "量贩零食店越开越多 是真低价还是定价魔术？ 人这一辈子，一定要在冬天来一次敦煌！ 从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲 普通话越来越普及，民族语言会消失吗？",
+    "detail": "量贩零食店越开越多 是真低价还是定价魔术？ 人这一辈子，一定要在冬天来一次敦煌！ 从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲 普通话越来越普及，民族语言会消失吗？中国给出了答案 智慧跃迁，从码头自动化到航运服务智慧化的津港实践 中新网评：别让“狂欢”纵容恶意 全球南方现代化如何抓住AI机遇？ 美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？ 如何从“长城内外皆故土”理解历史上的中国？ 世界“桥见中国”：不止于“基建狂魔” 中国民企用三维“扫街”敲开八十多国市场 医学的重量，不该被剪成一地流量 “乌镇七子”书写县域经济发展新答卷 救护雪豹咋就成了“流量生意”？",
+    "tags": [
+      "社会热点",
+      "中新网滚动新闻"
+    ],
+    "importance": 2,
+    "source_name": "中新网滚动新闻",
+    "source_url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725893.shtml",
+    "image_url": "assets/images/2026-11-04/6230f4914260_93683706.png",
+    "published_at": "2026-11-04T04:10:38+00:00",
+    "published_label": "1 小时前",
+    "verification_count": 2,
+    "verified_by": [
+      "中新网滚动新闻",
+      "光明网时政"
+    ],
+    "source_domain": "chinanews.com.cn",
+    "category_id": "hot"
+  },
+  "categories": [
+    {
+      "id": "hot",
+      "name": "社会热点",
+      "color": "#d92c20",
+      "description": "民生、教育、医疗、社会事件",
+      "events": [
+        {
+          "id": "6230f4914260",
+          "title": "AI按摩机器人手法如何 记者在“互联网之光”现场体验",
+          "summary": "量贩零食店越开越多 是真低价还是定价魔术？ 人这一辈子，一定要在冬天来一次敦煌！ 从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲 普通话越来越普及，民族语言会消失吗？",
+          "detail": "量贩零食店越开越多 是真低价还是定价魔术？ 人这一辈子，一定要在冬天来一次敦煌！ 从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲 普通话越来越普及，民族语言会消失吗？中国给出了答案 智慧跃迁，从码头自动化到航运服务智慧化的津港实践 中新网评：别让“狂欢”纵容恶意 全球南方现代化如何抓住AI机遇？ 美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？ 如何从“长城内外皆故土”理解历史上的中国？ 世界“桥见中国”：不止于“基建狂魔” 中国民企用三维“扫街”敲开八十多国市场 医学的重量，不该被剪成一地流量 “乌镇七子”书写县域经济发展新答卷 救护雪豹咋就成了“流量生意”？",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725893.shtml",
+          "image_url": "assets/images/2026-11-04/6230f4914260_93683706.png",
+          "published_at": "2026-11-04T04:10:38+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网滚动新闻",
+            "光明网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        },
+        {
+          "id": "3e86b119cac6",
+          "title": "国家发展改革委：“十五五”时期我国将新建约15个民用运输机场",
+          "summary": "中新网11月4日电 国家发展改革委4日上午召开奋进“十五五”系列新闻发布会，介绍夯实发展支撑有关情况。",
+          "detail": "国家发展改革委：“十五五”时期我国将新建约15个民用运输机场 中新网11月4日电 国家发展改革委4日上午召开奋进“十五五”系列新闻发布会，介绍夯实发展支撑有关情况。基础设施发展司司长夏鑫表示，“十五五”时期，我国将新建约15个民用运输机场，行业安全水平、服务能力、基础设施要迈向国际一流。 在重点任务方面，以北京、上海、广州、深圳、成都、重庆为中心，打造主辅协同、功能互补、客货兼顾的世界级机场群，提升乌鲁木齐、西安、昆明、哈尔滨面向特定区域的国际航空枢纽功能，推进资源容量紧张的枢纽机场改扩建，合理加密支线机场和通用机场布局，促进国际航空货运健康有序发展。推进国产大飞机规模化系列化发展。",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/cj/2026/11-04/10725874.shtml",
+          "image_url": "assets/images/2026-11-04/3e86b119cac6_0ab48188.jpg",
+          "published_at": "2026-11-04T03:37:12+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网滚动新闻",
+            "中新网财经",
+            "新华网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "name": "时事政策",
+      "color": "#1f6feb",
+      "description": "政府文件、法律法规、改革举措",
+      "events": [
+        {
+          "id": "47876a2178bb",
+          "title": "严密组织体系是党的优势所在力量所在——论学习贯彻党的二十届五中全会精神",
+          "summary": "党的各级组织是全面从严治党的主体。党的二十届五中全会审议通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，对持之以恒推进全面从严治党作出系统部署，把“建设上下贯通、…",
+          "detail": "严密组织体系是党的优势所在力量所在——论学习贯彻党的二十届五中全会精神 党的各级组织是全面从严治党的主体。党的二十届五中全会审议通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，对持之以恒推进全面从严治党作出系统部署，把“建设上下贯通、执行有力的严密组织体系”列为7项战略任务和重大举措之一。这将有力推进党的组织建设，为坚持和加强党的全面领导、推进党的事业发展提供坚强组织保证。 组织建设是党的建设的重要基础。党的全面领导、党的全部工作要靠党的坚强组织体系去实现；贯彻落实党中央各项重大决策部署也需要严密的组织体系作支撑。",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 2,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/11-04/10725819.shtml",
+          "image_url": "assets/images/2026-11-04/47876a2178bb_2adb0be6.jpg",
+          "published_at": "2026-11-04T02:32:03+00:00",
+          "published_label": "2 小时前",
+          "verification_count": 4,
+          "verified_by": [
+            "中新网时政",
+            "人民网时政",
+            "光明网时政",
+            "新华网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "409584b991f1",
+          "title": "一图读懂知识产权检察工作报告",
+          "summary": "文案：罗丽丽 谢思琪",
+          "detail": "文案：罗丽丽 谢思琪 设计：察画汇创意社 张东魁 编辑：谢思琪 量贩零食店越开越多 是真低价还是定价魔术？ 人这一辈子，一定要在冬天来一次敦煌！ 从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲 普通话越来越普及，民族语言会消失吗？中国给出了答案 智慧跃迁，从码头自动化到航运服务智慧化的津港实践 中新网评：别让“狂欢”纵容恶意 全球南方现代化如何抓住AI机遇？ 美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？ 如何从“长城内外皆故土”理解历史上的中国？",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 2,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/11-04/10725814.shtml",
+          "image_url": "assets/images/2026-11-04/409584b991f1_f42dbeb9.jpg",
+          "published_at": "2026-11-04T02:26:02+00:00",
+          "published_label": "2 小时前",
+          "verification_count": 4,
+          "verified_by": [
+            "中新网时政",
+            "人民网时政",
+            "光明网时政",
+            "新华网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "d3187c6a91ae",
+          "title": "十四届全国人大常委会第二十五次会议举行第二次全体会议",
+          "summary": "十四届全国人大常委会第二十五次会议举行第二次全体会议 审议全国人大常委会执法检查报告、“一府两院”专项工作报告等 赵乐际出席会议 点击播报本文，约 本报北京11月3日电 （记者彭波…",
+          "detail": "十四届全国人大常委会第二十五次会议举行第二次全体会议 审议全国人大常委会执法检查报告、“一府两院”专项工作报告等 赵乐际出席会议 点击播报本文，约 本报北京11月3日电 （记者彭波、亓玉昆）十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。赵乐际委员长出席。 武维华副委员长主持会议。常委会组成人员146人出席会议，出席人数符合法定人数。 会议听取了全国人大常委会副委员长李鸿忠作的常委会执法检查组关于检查粮食安全保障法实施情况的报告。报告介绍了粮食安全保障法贯彻实施的基本情况，指出法律实施取得阶段性成效，推动我国粮食安全保障基础持续夯实。",
+          "tags": [
+            "时事政策",
+            "人民网时政"
+          ],
+          "importance": 2,
+          "source_name": "人民网时政",
+          "source_url": "http://politics.people.com.cn/n1/2026/1104/c1024-40827074.html",
+          "image_url": null,
+          "published_at": "2026-11-04T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 2,
+          "verified_by": [
+            "上海证券报",
+            "人民网时政"
+          ],
+          "source_domain": "politics.people.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "4874abb2d1c2",
+          "title": "丁薛祥将出席第九届进博会开幕式及相关活动",
+          "summary": "点击播报本文，约 新华社北京11月3日电 商务部新闻发言人何亚东宣布：第九届中国国际进口博览会将于2026年11月5日至10日在上海举办。",
+          "detail": "点击播报本文，约 新华社北京11月3日电 商务部新闻发言人何亚东宣布：第九届中国国际进口博览会将于2026年11月5日至10日在上海举办。中共中央政治局常委、国务院副总理丁薛祥将出席开幕式及相关活动并作主旨讲话。 《 人民日报 》（ 2026年11月04日 01 版） 分享让更多人看到",
+          "tags": [
+            "时事政策",
+            "人民网时政"
+          ],
+          "importance": 2,
+          "source_name": "人民网时政",
+          "source_url": "http://politics.people.com.cn/n1/2026/1104/c1024-40827076.html",
+          "image_url": null,
+          "published_at": "2026-11-04T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 2,
+          "verified_by": [
+            "人民网时政",
+            "光明网时政"
+          ],
+          "source_domain": "politics.people.com.cn",
+          "category_id": "policy"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "世界格局",
+      "color": "#b7791f",
+      "description": "地缘政治、国际冲突、全球秩序",
+      "events": [
+        {
+          "id": "f6f9478f6e7f",
+          "title": "2026年世界互聯網大會藍皮書發布",
+          "summary": "據央視新聞報道，2026年世界互聯網大會烏鎮峰會今天（4日）進入第三天，由中國網絡空間研究院編寫的《中國互聯網發展報告2026》和《世界互聯網發展報告2026》藍皮書正式對外發布。",
+          "detail": "據央視新聞報道，2026年世界互聯網大會烏鎮峰會今天（4日）進入第三天，由中國網絡空間研究院編寫的《中國互聯網發展報告2026》和《世界互聯網發展報告2026》藍皮書正式對外發布。 《中國互聯網發展報告2026》顯示，我國網信科技創新步伐加快，人工智能技術產業蓬勃發展，智能體與具身智能產業加速興起。2025年中國企業級AI智能體市場規模躍升至212億元，具身智能市場規模約9150億元。 截至2026年6月，累計有924款生成式人工智能服務完成備案，573款生成式人工智能應用或功能完成登記；2026年3月，我國日均詞元調用量攀升至140萬億，兩年間增長超千倍。",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 2,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202611/04/AP6aea95e0e4b0fa89498bc67f.html",
+          "image_url": "assets/images/2026-11-04/f6f9478f6e7f_357023e4.jpg",
+          "published_at": "2026-11-04T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 10,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "中国证券报",
+            "中新网国际",
+            "中新网滚动新闻",
+            "中新网社会",
+            "中新网财经",
+            "人民网时政",
+            "光明网时政",
+            "新华网时政",
+            "钛媒体",
+            "雷峰网",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "baf99c72cf5f",
+          "title": "点击榜TOP5（11月4日）",
+          "summary": ".m-article-item-ttl__link {color: blue;}1） 日外相称正密切关注美国中期选举2） 日韩举行副外长级战略对话 确认紧密合作3） 外国游客在日本…",
+          "detail": "1） 日外相称正密切关注美国中期选举 2） 日韩举行副外长级战略对话 确认紧密合作 3） 外国游客在日本购物免税改为离境退税 商家设置多语种告示 4） 关注：日本《宪法》迎来颁布80周年 修宪提议前景难料 5） 日出生台演习场实弹训练获准新增使用4种武器 （11月4日 09:00 统计）",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 2,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/17797",
+          "image_url": "assets/images/2026-11-04/baf99c72cf5f_5fb81e33.jpg",
+          "published_at": "2026-11-04T00:00:00+00:00",
+          "published_label": "5 小时前",
+          "verification_count": 5,
+          "verified_by": [
+            "东方财富Choice数据",
+            "东方财富研究中心",
+            "中新网财经",
+            "共同社中文",
+            "香港文汇网"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        },
+        {
+          "id": "dba942c0b12b",
+          "title": "【美国中期选举】特朗普：愿接受选举结果 期待与民主党合作",
+          "summary": "美国总统特朗普说，他会接受中期选举结果，并准备与民主党合作。 特朗普星期二（11月3日）晚间在白宫观看选举结果时，接受《纽约时报》采访。他表明：“我完全愿意接受中期选举结果。",
+          "detail": "美国总统特朗普说，他会接受中期选举结果，并准备与民主党合作。 特朗普星期二（11月3日）晚间在白宫观看选举结果时，接受《纽约时报》采访。他表明：“我完全愿意接受中期选举结果。我们会与民主党人合作，而且很期待与他们共事。我们应该能达成某种共识。” 中期选举各州投票陆续结束，媒体和机构普遍预测民主党会重夺众议院控制权，还有望拿下参议院多数席位。这种局面对特朗普和共和党构成打击。 特朗普将共和党的失利归咎于他本人没有参选，并强调自己并不后悔支持某些极具争议的共和党候选人，包括已故参议员格林厄姆，以及丑闻缠身的得克萨斯州总检察长帕克斯顿（Ken Paxton）。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261104-9944307",
+          "image_url": "assets/images/2026-11-04/dba942c0b12b_b985a28c.jpg",
+          "published_at": "2026-11-04T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 3,
+          "verified_by": [
+            "东方财富研究中心",
+            "中新网国际",
+            "中新网滚动新闻",
+            "联合早报·国际"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "c1c0f44ccaba",
+          "title": "快讯：美国民主党夺回众议院多数议席成定局",
+          "summary": "【共同社华盛顿11月3日电】据美国主要媒体3日报道，美国中期选举中，在野的民主党夺回众议院多数议席已成定局。（完）",
+          "detail": "2026年11月4日 星期三 ENGLISH 简体中文 繁體中文 日本語 首页 全球纵横 日中关系 日本政治 金融财经 科技环保 社会生活 多彩各地 福岛核事故 文体娱乐 首相一日 东京股市 地方频道 播客 快讯：美国民主党夺回众议院多数议席成定局 共同社 2026年 11月 4日 - 12:25 所有新闻 , 全球纵横 【共同社华盛顿11月3日电】据美国主要媒体3日报道，美国中期选举中，在野的民主党夺回众议院多数议席已成定局。",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 2,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/17813",
+          "image_url": "assets/images/2026-11-04/c1c0f44ccaba_ba868097.jpg",
+          "published_at": "2026-11-04T03:25:09+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网国际",
+            "中新网时政",
+            "中新网滚动新闻",
+            "共同社中文",
+            "联合早报·国际"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        },
+        {
+          "id": "c968cb07ab9d",
+          "title": "加州公投拟向亿万富豪征税5% 科技巨头砸重金反对",
+          "summary": "美国加利福尼亚州星期二（11月3日）举行公投，决定是否向亿万富豪征收一次性5%的财富税。若获通过，加州将成为全美首个对亿万富豪净资产征税的州，但这项提案引发民主党内部分歧，也促使科…",
+          "detail": "美国加利福尼亚州星期二（11月3日）举行公投，决定是否向亿万富豪征收一次性5%的财富税。若获通过，加州将成为全美首个对亿万富豪净资产征税的州，但这项提案引发民主党内部分歧，也促使科技富豪投入巨资阻止法案通过。 美联社报道，根据第40号公投提案，净资产超过10亿美元（近13亿新元）的加州居民，须缴纳一次性5%的财富税，所得税收主要用于填补联邦政府削减医疗拨款造成的缺口。支持提案的工会估计，加州未来五年将损失1000亿美元联邦医疗拨款。 民主党籍参议员桑德斯力挺提案，认为这是缩小贫富差距、确保富豪缴纳合理税款的重要一步。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261104-9939540",
+          "image_url": "assets/images/2026-11-04/c968cb07ab9d_da2da8b9.jpg",
+          "published_at": "2026-11-04T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 2,
+          "verified_by": [
+            "人民财讯",
+            "联合早报·国际"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "17a0abdf478a",
+          "title": "中國人民銀行加力實施股票回購增持再貸款政策",
+          "summary": "據央視新聞報道，為維護資本市場平穩運行，中國人民銀行加力實施股票回購增持再貸款政策。 一、自2026年11月4日起，下調股票回購增持再貸款利率0.25個百分點至1%。",
+          "detail": "據央視新聞報道，為維護資本市場平穩運行，中國人民銀行加力實施股票回購增持再貸款政策。 一、自2026年11月4日起，下調股票回購增持再貸款利率0.25個百分點至1%。股票回購增持再貸款的支持對象為21家全國性銀行和5家系統重要性城商行，支持比例為100%，期限1年，可根據銀行需要展期。銀行可在再貸款利率基礎上適當加點，合理確定股票回購增持貸款期限和利率，加快貸款投放，增強上市公司、主要股東市值管理能力。 二、向銀行提供充足的再貸款額度保障。11月2日股票回購增持再貸款座談會之後，銀行已向中國人民銀行報送股票回購增持再貸款額度申請超過2000億元。",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 2,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202611/04/AP6aea88fce4b0fa89498bc46c.html",
+          "image_url": "assets/images/2026-11-04/17a0abdf478a_71567c2b.jpg",
+          "published_at": "2026-11-04T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 2,
+          "verified_by": [
+            "央行网站",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI 前沿",
+      "color": "#6d5ae0",
+      "description": "人工智能、大模型、机器人、AI 应用",
+      "events": [
+        {
+          "id": "c7fb864905d9",
+          "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memo",
+          "summary": "长视频记忆精度飙升，问答时延最高降97%",
+          "detail": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落 长视频记忆精度飙升，问答时延最高降97% 允中 发自 凹非寺 量子位 | 公众号QbitAI openJiuwen AgentMemory正式上线了多模态记忆能力OmniMem-Lens：按秒盲切是记忆碎片化的元凶，按真实事件记忆才是正解——召回精度最高提升45.7%，在线问答时延最高降低97%。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 2,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/11/507533.html",
+          "image_url": "assets/images/2026-11-04/c7fb864905d9_c469bc8c.webp",
+          "published_at": "2026-11-04T02:49:02+00:00",
+          "published_label": "2 小时前",
+          "verification_count": 5,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "财联社",
+            "量子位",
+            "雷峰网"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "0632c6aa49b5",
+          "title": "Kling’s $18 Billion Private Value Tops P",
+          "summary": "Kuaishou has closed a large capital injection into its AI video unit Kling at a post-money…",
+          "detail": "NextFin News — Kuaishou has completed the cash closing on a major funding round for Beijing Kling, the company that houses its Kling AI video business. Investors paid in about 19.8 billion yuan in total. Some original subscribers failed to wire on time and exited;",
+          "tags": [
+            "AI 前沿",
+            "钛媒体"
+          ],
+          "importance": 1,
+          "source_name": "钛媒体",
+          "source_url": "https://www.tmtpost.com/8193017.html",
+          "image_url": "assets/images/2026-11-04/0632c6aa49b5_3dcf7864.png",
+          "published_at": "2026-11-04T04:26:05+00:00",
+          "published_label": "55 分钟前",
+          "verification_count": 3,
+          "verified_by": [
+            "IT之家",
+            "财联社",
+            "钛媒体"
+          ],
+          "source_domain": "tmtpost.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "e6d94559dd4e",
+          "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+          "summary": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
+          "detail": "AI数据平台OceanBase获世界互联网大会杰出贡献奖 11月3日上午，2026世界互联网大会在浙江乌镇开幕。 11月3日上午，2026世界互联网大会在浙江乌镇开幕。记者从大会现场获悉，OceanBase获得“世界互联网大会杰出贡献奖”。大会颁奖词指出，“OceanBase打造AI数据基础设施，服务全球数字经济发展。”这是OceanBase继2022年获得世界互联网领先科技成果奖后，再次获得世界互联网大会重要奖项。此次获奖，不仅是对其数据库核心技术创新的认可，也体现了其在推动AI数据基础设施创新、释放企业数据价值方面的产业贡献。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 1,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/11/507405.html",
+          "image_url": "assets/images/2026-11-04/e6d94559dd4e_754c8248.jpeg",
+          "published_at": "2026-11-03T05:59:05+00:00",
+          "published_label": "23 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "IT之家",
+            "量子位",
+            "雷峰网"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "264fc975f657",
+          "title": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+          "summary": "仅今年9月，国内就有近十家端侧AI芯片企业宣布完成新一轮融资。资本的目光，正在从云端的算力集群，移向手机、电脑和机器人里的那颗芯片。 最新的一笔大额融资来自后摩智能。",
+          "detail": "您正在使用IE低版浏览器，为了您的雷峰网账号安全和更好的产品体验，强烈建议使用更快更安全的浏览器 此为临时链接，仅用于文章预览，将在时失效 0 导语：仅今年9月，国内就有近十家端侧AI芯片企业宣布完成新一轮融资。资本的目光，正在从云端的算力集群，移向手机、电脑和机器人里的那颗芯片。最新的一笔大额融资来自后摩智 最新的一笔大额融资来自后摩智能。据知情人士透露，存算一体AI芯片企业后摩智能已于近期完成B轮融资，单笔融资金额高达数十亿元人民币，近一年内连续完成多轮融资。",
+          "tags": [
+            "AI 前沿",
+            "雷峰网"
+          ],
+          "importance": 1,
+          "source_name": "雷峰网",
+          "source_url": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+          "image_url": null,
+          "published_at": "2026-11-04T02:21:00+00:00",
+          "published_label": "3 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "36氪",
+            "雷峰网"
+          ],
+          "source_domain": "leiphone.com",
+          "category_id": "ai"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "世界经济",
+      "color": "#0e8a5f",
+      "description": "市场、贸易、央行、产业动向",
+      "events": [
+        {
+          "id": "e23c91e061c5",
+          "title": "AI算力爆发！AMD财报会：数据中心营收近乎翻倍 明年收入占比将破80%",
+          "summary": "美东时间11月3日，AMD公布2026财年第三季度财报，交出公司史上营收与盈利规模最高的季度“成绩单”。",
+          "detail": "美东时间11月3日，AMD公布2026财年第三季度财报，交出公司史上营收与盈利规模最高的季度“成绩单”。 在财报电话会上，公司给出强于市场预期的四季度指引，并预判2027年营收增速将超80%，服务器CPU营收有望实现翻倍增长。此外，算力供给瓶颈、PC业务下行周期与客户认股权证的会计影响成为本次财报电话会的核心议题。 一、核心财务数据 1. 三季度总营收134亿美元，同比+45%、环比+16%；非GAAP 每股收益2.09美元，同比+74%；毛利率 56%，同比提升190个基点，规模效应持续显现。",
+          "tags": [
+            "世界经济",
+            "财联社"
+          ],
+          "importance": 1,
+          "source_name": "财联社",
+          "source_url": "http://finance.eastmoney.com/news/1354,202611043921124981.html",
+          "image_url": "assets/images/2026-11-04/e23c91e061c5_06a371a3.jpg",
+          "published_at": "2026-11-04T01:08:38+00:00",
+          "published_label": "4 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "36氪",
+            "财联社"
+          ],
+          "source_domain": "finance.eastmoney.com",
+          "category_id": "economy"
+        },
+        {
+          "id": "31be6e6658e8",
+          "title": "ETF追踪丨11月3日股票型ETF净申购841亿元 资金加仓沪深300ETF华泰",
+          "summary": "东方财富 Choice数据显示，11月3日，ETF资金整体净流入798.54亿元，其中，股票型净流入840.67亿元。",
+          "detail": "ETF追踪丨11月3日股票型ETF净申购841亿元 资金加仓沪深300ETF华泰柏瑞 东方财富Choice数据显示，11月3日，ETF资金整体净流入798.54亿元，其中，股票型净流入840.67亿元。 股票型ETF中，当日净申购前3依次为：沪深300ETF华泰柏瑞，净申购130.12亿元；科创50ETF华夏，净申购112.24亿元；上证50ETF华夏，净申购103.10亿元。 股票型ETF当日净赎回前3为：中证2000ETF华泰柏瑞，净赎回5.43亿元；证券ETF国泰，净赎回4.50亿元；半导体设备ETF国泰，净赎回4.20亿元。",
+          "tags": [
+            "世界经济",
+            "东方财富Choice数据"
+          ],
+          "importance": 1,
+          "source_name": "东方财富Choice数据",
+          "source_url": "http://stock.eastmoney.com/news/11868,202611043920889059.html",
+          "image_url": "assets/images/2026-11-04/31be6e6658e8_39417c1b.jpg",
+          "published_at": "2026-11-04T00:00:11+00:00",
+          "published_label": "5 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "36氪",
+            "上海证券报",
+            "东方财富Choice数据",
+            "东方财富研究中心"
+          ],
+          "source_domain": "stock.eastmoney.com",
+          "category_id": "economy"
+        },
+        {
+          "id": "0938a28f9ea8",
+          "title": "六只宽基ETF单日成交破百亿 资金连续21日扫货股票ETF",
+          "summary": "宽基ETF周二午后再放量，6只宽基ETF单日成交破百亿，为2024年“9·24行情”以来首次。 11月3日，多只宽基ETF交投显著活跃，全市场6只产品单日成交额突破百亿元。",
+          "detail": "宽基ETF周二午后再放量，6只宽基ETF单日成交破百亿，为2024年“9·24行情”以来首次。 11月3日，多只宽基ETF交投显著活跃，全市场6只产品单日成交额突破百亿元。交易端放量的同时，资金端延续净流入。据Wind数据，11月2日全市场1618只可统计股票型ETF（含跨境ETF）合计净流入434.22亿元，连续第21个交易日净流入。 政策端此前已在11月2日释放稳市信号。中国人民银行会同金融监管总局、中国证监会等部门召开互换便利和股票回购增持再贷款座谈会，研究部署用好用足政策工具。第三批互换便利扩围至31家机构、申报额度突破千亿，再贷款利率降至1%，释放出稳市场、稳预期的信号。",
+          "tags": [
+            "世界经济",
+            "澎湃新闻"
+          ],
+          "importance": 1,
+          "source_name": "澎湃新闻",
+          "source_url": "http://stock.eastmoney.com/news/11215,202611033920550150.html",
+          "image_url": "assets/images/2026-11-04/0938a28f9ea8_a61161ba.jpg",
+          "published_at": "2026-11-03T16:26:22+00:00",
+          "published_label": "12 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "澎湃新闻",
+            "财联社"
+          ],
+          "source_domain": "stock.eastmoney.com",
+          "category_id": "economy"
+        }
+      ]
+    }
+  ]
+}
