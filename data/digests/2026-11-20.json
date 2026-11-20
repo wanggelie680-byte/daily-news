@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T14:14:22.637039+08:00",
+  "site_title": "每日热点简报",
+  "site_tagline": "自动聚合社会热点、时事政策、世界格局与世界经济",
+  "feed_names": [
+    "36氪",
+    "IT之家",
+    "东方财富",
+    "中新网国际",
+    "中新网时政",
+    "中新网滚动新闻",
+    "中新网社会",
+    "中新网财经",
+    "人民网时政",
+    "光明网时政",
+    "共同社中文",
+    "新华网时政",
+    "联合早报·国际",
+    "量子位",
+    "钛媒体",
+    "雷峰网",
+    "香港文汇网"
+  ],
+  "hero": {
+    "id": "6cecf1d70f23",
+    "title": "A股午评：三大指数收跌，超4800只个股飘绿",
+    "summary": "A股午评：三大指数收跌，超4800只个股飘绿；贵金属领跌，航天军工、半导体、酒类、保险下跌；农业上涨；覆铜板、电路板、物理AI走高",
+    "detail": "A股午评：三大指数收跌，超4800只个股飘绿 A股午评：三大指数收跌，超4800只个股飘绿；贵金属领跌，航天军工、半导体、酒类、保险下跌；农业上涨；覆铜板、电路板、物理AI走高 20日，A股三大指数低开低走。截至午间收盘，沪指跌1.57%，深证成指跌2.05%，创业板指跌2.08%。 全市半日成交额8617.8亿元，超4800只个股下跌。 板块方面，贵金属领跌，航天军工、半导体、生物科技、酒类、保险、化纤、通信设备等跌幅居前。农业小幅上涨；覆铜板、电路板、猪产业、物理AI等概念走高。",
+    "tags": [
+      "社会热点",
+      "中新网滚动新闻"
+    ],
+    "importance": 2,
+    "source_name": "中新网滚动新闻",
+    "source_url": "https://www.chinanews.com.cn/cj/2026/11-20/10735178.shtml",
+    "image_url": "assets/images/2026-11-20/6cecf1d70f23_7e47f5f4.jpg",
+    "published_at": "2026-11-20T05:30:52+00:00",
+    "published_label": "43 分钟前",
+    "verification_count": 3,
+    "verified_by": [
+      "36氪",
+      "东方财富Choice数据",
+      "中新网滚动新闻",
+      "中新网财经"
+    ],
+    "source_domain": "chinanews.com.cn",
+    "category_id": "hot"
+  },
+  "categories": [
+    {
+      "id": "hot",
+      "name": "社会热点",
+      "color": "#d92c20",
+      "description": "民生、教育、医疗、社会事件",
+      "events": [
+        {
+          "id": "6cecf1d70f23",
+          "title": "A股午评：三大指数收跌，超4800只个股飘绿",
+          "summary": "A股午评：三大指数收跌，超4800只个股飘绿；贵金属领跌，航天军工、半导体、酒类、保险下跌；农业上涨；覆铜板、电路板、物理AI走高",
+          "detail": "A股午评：三大指数收跌，超4800只个股飘绿 A股午评：三大指数收跌，超4800只个股飘绿；贵金属领跌，航天军工、半导体、酒类、保险下跌；农业上涨；覆铜板、电路板、物理AI走高 20日，A股三大指数低开低走。截至午间收盘，沪指跌1.57%，深证成指跌2.05%，创业板指跌2.08%。 全市半日成交额8617.8亿元，超4800只个股下跌。 板块方面，贵金属领跌，航天军工、半导体、生物科技、酒类、保险、化纤、通信设备等跌幅居前。农业小幅上涨；覆铜板、电路板、猪产业、物理AI等概念走高。",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/cj/2026/11-20/10735178.shtml",
+          "image_url": "assets/images/2026-11-20/6cecf1d70f23_7e47f5f4.jpg",
+          "published_at": "2026-11-20T05:30:52+00:00",
+          "published_label": "43 分钟前",
+          "verification_count": 3,
+          "verified_by": [
+            "36氪",
+            "东方财富Choice数据",
+            "中新网滚动新闻",
+            "中新网财经"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        },
+        {
+          "id": "ad48542a7d1e",
+          "title": "AI赋能华文教育 业界探索技术与人文融合路径",
+          "summary": "中新社海南博鳌11月20日电 (记者 王子谦)AI浪潮席卷全球，也在深刻影响华文教育。11月18日至19日在海南博鳌举行的第六届世界华文教育大会上，海内外人士围绕AI时代的创新与坚…",
+          "detail": "AI赋能华文教育 业界探索技术与人文融合路径 中新社海南博鳌11月20日电 (记者 王子谦)AI浪潮席卷全球，也在深刻影响华文教育。11月18日至19日在海南博鳌举行的第六届世界华文教育大会上，海内外人士围绕AI时代的创新与坚守展开热议。 华文教育是海外华侨华人传承中华民族语言文化的重要途径，也是促进中外文明互鉴、民心相通的重要桥梁。在全球掀起“中文热”的同时，华文教育仍存在办学经费不足、师资缺乏、教材针对性不强等问题。 AI正快速进入华文学校。实时互动功能搭配AI纠音、AI练字，对接远程学习资源，强化学生记忆，为教师减负。",
+          "tags": [
+            "社会热点",
+            "中新网滚动新闻"
+          ],
+          "importance": 2,
+          "source_name": "中新网滚动新闻",
+          "source_url": "https://www.chinanews.com.cn/hr/2026/11-20/10735157.shtml",
+          "image_url": "assets/images/2026-11-20/ad48542a7d1e_3375ef35.jpg",
+          "published_at": "2026-11-20T05:07:53+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网滚动新闻",
+            "人民网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "hot"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "name": "时事政策",
+      "color": "#1f6feb",
+      "description": "政府文件、法律法规、改革举措",
+      "events": [
+        {
+          "id": "3188cd48a58a",
+          "title": "2026休闲度假大会在安徽石台举行",
+          "summary": "中新网池州11月20日电 (记者 张强)以“新体验 新经济”为主题的2026休闲度假大会19日在安徽省池州市石台县举行，来自全国各地的文旅业界专家、企业代表齐聚秋浦河畔，共话休闲度…",
+          "detail": "2026休闲度假大会在安徽石台举行 中新网池州11月20日电 (记者 张强)以“新体验 新经济”为主题的2026休闲度假大会19日在安徽省池州市石台县举行，来自全国各地的文旅业界专家、企业代表齐聚秋浦河畔，共话休闲度假新路径。 会上，中国旅游协会与石台县人民政府签署合作协议，并发布《安徽休闲度假康养创新实践报告》。同时，有关线上视频平台和旅游平台发布了《“心动目的地”安徽100休闲度假新体验》报告和《入境旅游十大新趋势暨安徽入境旅游十大新体验》报告。",
+          "tags": [
+            "时事政策",
+            "中新网社会"
+          ],
+          "importance": 2,
+          "source_name": "中新网社会",
+          "source_url": "https://www.chinanews.com.cn/sh/2026/11-20/10735136.shtml",
+          "image_url": "assets/images/2026-11-20/3188cd48a58a_098585e5.jpg",
+          "published_at": "2026-11-20T03:58:03+00:00",
+          "published_label": "2 小时前",
+          "verification_count": 6,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "中新网国际",
+            "中新网社会",
+            "中新网财经",
+            "光明网时政",
+            "新华网时政",
+            "雷峰网"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "f302d43f7fd4",
+          "title": "强化对党忠诚教育（学习贯彻党的二十届五中全会精神）",
+          "summary": "强化对党忠诚教育（学习贯彻党的二十届五中全会精神） 点击播报本文，约 对党忠诚是共产党人首要的政治品质，也是党章对党员的基本要求。",
+          "detail": "强化对党忠诚教育（学习贯彻党的二十届五中全会精神） 点击播报本文，约 对党忠诚是共产党人首要的政治品质，也是党章对党员的基本要求。党的二十届五中全会通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，立足新形势新任务对全面从严治党提出的新要求，就强化对党忠诚教育作出重要部署。我们要深刻认识强化对党忠诚教育的重要意义，找准着力点、切入点，增强针对性、实效性，教育引导全体党员、干部永葆对党忠诚的政治本色。",
+          "tags": [
+            "时事政策",
+            "人民网时政"
+          ],
+          "importance": 2,
+          "source_name": "人民网时政",
+          "source_url": "http://politics.people.com.cn/n1/2026/1120/c1001-40837295.html",
+          "image_url": "assets/images/2026-11-20/f302d43f7fd4_b20dfea2.png",
+          "published_at": "2026-11-20T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 3,
+          "verified_by": [
+            "人民网时政",
+            "光明网时政",
+            "新华网时政"
+          ],
+          "source_domain": "politics.people.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "a82312344a6d",
+          "title": "在深圳，读懂亚太工商界人士的“心头事”",
+          "summary": "聚焦APEC·记者手记｜在深圳，读懂亚太工商界人士的“心头事”",
+          "detail": "在深圳，读懂亚太工商界人士的“心头事” 聚焦APEC·记者手记｜在深圳，读懂亚太工商界人士的“心头事” 新华社深圳11月19日电 新华社记者柳丝 王军伟 黄顺达 带着几张写满关键词的卡片走进深圳前海国际会议中心时，记者心里揣着一个问题：今年，亚太工商界人士最关心的是什么？ 17日至18日，来自亚太经合组织(APEC)21个经济体和英国、法国、德国、瑞士等13个域外经济体的2000余位政商界代表齐聚深圳前海，参加2026年APEC工商领导人峰会。 峰会期间，记者向来自不同经济体的与会者问起“此行最关心什么”，得到的关键词不尽相同。",
+          "tags": [
+            "时事政策",
+            "中新网时政"
+          ],
+          "importance": 2,
+          "source_name": "中新网时政",
+          "source_url": "https://www.chinanews.com.cn/gn/2026/11-20/10735092.shtml",
+          "image_url": "assets/images/2026-11-20/a82312344a6d_fb79644f.jpg",
+          "published_at": "2026-11-20T02:17:24+00:00",
+          "published_label": "3 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "中新网时政",
+            "光明网时政"
+          ],
+          "source_domain": "chinanews.com.cn",
+          "category_id": "policy"
+        },
+        {
+          "id": "dca404e775f3",
+          "title": "深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满",
+          "summary": "习近平对老龄工作作出重要指示强调 深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满 李强出席全国老龄工作会议并讲话 点击播报本文，约 新华社北京11月19日电 中…",
+          "detail": "习近平对老龄工作作出重要指示强调 深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满 李强出席全国老龄工作会议并讲话 点击播报本文，约 新华社北京11月19日电 中共中央总书记、国家主席、中央军委主席习近平近日对老龄工作作出重要指示指出，党的十八大以来，我国老龄工作取得新进展新成效，养老事业和养老产业快速发展，广大老年人获得感、幸福感、安全感持续增强。",
+          "tags": [
+            "时事政策",
+            "人民网时政"
+          ],
+          "importance": 2,
+          "source_name": "人民网时政",
+          "source_url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837275.html",
+          "image_url": "assets/images/2026-11-20/dca404e775f3_23a912c4.png",
+          "published_at": "2026-11-20T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 2,
+          "verified_by": [
+            "人民网时政",
+            "光明网时政"
+          ],
+          "source_domain": "politics.people.com.cn",
+          "category_id": "policy"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "世界格局",
+      "color": "#b7791f",
+      "description": "地缘政治、国际冲突、全球秩序",
+      "events": [
+        {
+          "id": "85388c8aa140",
+          "title": "WTT冠軍賽首次落地上海 1月開啟2027年賽季",
+          "summary": "WTT世界乒聯昨日正式宣布，WTT上海冠軍賽2027將於2027年1月19日至24日落戶上海浦發銀行東方體育中心。這是WTT賽事首次落地上海。",
+          "detail": "WTT世界乒聯昨日正式宣布，WTT上海冠軍賽2027將於2027年1月19日至24日落戶上海浦發銀行東方體育中心。這是WTT賽事首次落地上海。 每個賽季全球將舉辦六站冠軍賽，WTT上海冠軍賽2027作為賽季的首站冠軍賽登場。WTT冠軍賽匯集來自全球的32名頂尖男子單打和女子單打選手，在標誌性的八極場上聚光燈下的單球台角逐這項運動中最重要的獎項之一。該賽事不設資格賽，來自世界各地的頂尖選手從第一輪開始直接進入激烈的淘汰賽對決，爭奪1,000點世界排名積分。 責任編輯： 張岩 評論成功，請等待管理員審核...",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 2,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202611/20/AP6aff964fe4b028ec0194cb9f.html",
+          "image_url": "assets/images/2026-11-20/85388c8aa140_d56d4679.jpg",
+          "published_at": "2026-11-20T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 9,
+          "verified_by": [
+            "IT之家",
+            "中新网时政",
+            "人民网时政",
+            "新华网时政",
+            "澎湃新闻",
+            "财联社",
+            "量子位",
+            "钛媒体",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "27bf0c2f3f7f",
+          "title": "点击榜TOP5（11月20日）",
+          "summary": ".m-article-item-ttl__link {color: blue;}1） 详讯：高市与习近平在APEC会场握手2） 详讯2：日本首相高市抵达深圳 开启首次访华之行3）…",
+          "detail": "1） 详讯：高市与习近平在APEC会场握手 2） 详讯2：日本首相高市抵达深圳 开启首次访华之行 3） 日首相高市抵华欢迎仪式简略 未获赠花束 4） 快讯：高市与习近平在APEC会场握手 5） 详讯2：日本首相高市抵达深圳 开启首次访华之行 （11月20日 09:00 统计）",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 2,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/18576",
+          "image_url": "assets/images/2026-11-20/27bf0c2f3f7f_f50371e9.jpg",
+          "published_at": "2026-11-20T00:00:00+00:00",
+          "published_label": "6 小时前",
+          "verification_count": 7,
+          "verified_by": [
+            "36氪",
+            "IT之家",
+            "东方财富Choice数据",
+            "东方财富研究中心",
+            "中新网财经",
+            "共同社中文",
+            "香港文汇网"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        },
+        {
+          "id": "626c973db86b",
+          "title": "習近平在APEC峰會發表重要講話 中俄美發表和平宣言",
+          "summary": "據新華社報道，國家主席習近平19日在亞太經合組織第三十三次領導人非正式會議發表題為《建設亞太共同體，續寫「亞太奇跡」新篇章》的重要講話。",
+          "detail": "據新華社報道，國家主席習近平19日在亞太經合組織第三十三次領導人非正式會議發表題為《建設亞太共同體，續寫「亞太奇跡」新篇章》的重要講話。習近平強調，中國是亞太經濟合作的倡導者、推動者、先行者。中方願同各方一道，集思廣益、匯聚合力，攜手搭建亞太共同體的「四樑八柱」。習近平表示：「期待在我們共同努力下，亞太合作像大鵬一樣展翅高飛、鵬程萬里。」 習近平：大國和則世界安 中俄美發表和平宣言 三國都記得二戰並肩作戰歷史 將就減少核風險等對話 香港文匯報訊 據新華社報道，11月19日下午，國家主席習近平在深圳同俄羅斯總統普京、美國總統特朗普舉行中俄美元首會晤。",
+          "tags": [
+            "世界格局",
+            "香港文汇网"
+          ],
+          "importance": 2,
+          "source_name": "香港文汇网",
+          "source_url": "https://www.wenweipo.com/a/202611/20/AP6aff90c9e4b028ec0194ca2e.html",
+          "image_url": "assets/images/2026-11-20/626c973db86b_d55e5cb0.jpg",
+          "published_at": "2026-11-20T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 4,
+          "verified_by": [
+            "中新网国际",
+            "中新网时政",
+            "中新网滚动新闻",
+            "中新网财经",
+            "光明网时政",
+            "雷峰网",
+            "香港文汇网"
+          ],
+          "source_domain": "wenweipo.com",
+          "category_id": "world"
+        },
+        {
+          "id": "330ba2ce6a2a",
+          "title": "SpaceX发行320亿美元债券 为购买英伟达AI晶片融资",
+          "summary": "彭博社报道，太空探索科技公司SpaceX星期四发行320亿美元债券，为购买人工智能（AI）晶片融资。这项结构复杂、收益率较高的交易，可能成为未来类似融资的范例。",
+          "detail": "彭博社报道，太空探索科技公司SpaceX星期四发行320亿美元债券，为购买人工智能（AI）晶片融资。这项结构复杂、收益率较高的交易，可能成为未来类似融资的范例。 这批债券是超过400亿美元（约516亿新元）融资方案的一部分，方案也包括银行贷款。融资安排旨在不把借款列入SpaceX的资产负债表。SpaceX将通过一个特殊目的实体购买英伟达晶片，再租用约五年。 债券分为三部分发行。其中规模最大的一部分是252亿美元的A3级票据，收益率为8.259%。相比之下，美国投资级债券星期四（11月19日）的平均收益率为5.95%。投资者此前已承诺购买约260亿美元债券，最后约60亿美元的A3级票推出。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261120-10028835",
+          "image_url": "assets/images/2026-11-20/330ba2ce6a2a_43fcdd68.jpg",
+          "published_at": "2026-11-20T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 3,
+          "verified_by": [
+            "联合早报·国际",
+            "财联社"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "d108d36106fd",
+          "title": "摩根大通Visa及万事达卡第三方遭黑客攻击 新加坡等亚太市场受波及",
+          "summary": "美国最大银行摩根大通（JPMorgan Chase）与支付巨头Visa和万事达卡（Mastercard）透露，为三家机构提供服务的第三方供应商近期遭到网络攻击，可能导致部分客户营销…",
+          "detail": "美国最大银行摩根大通（JPMorgan Chase）与支付巨头Visa和万事达卡（Mastercard）透露，为三家机构提供服务的第三方供应商近期遭到网络攻击，可能导致部分客户营销数据泄露。 黑客组织本星期一（11月16日）公布的Visa相关数据显示，此次事件疑似波及包括新加坡、香港、台湾、日本和马来西亚在内的多个亚太市场。不过，三家机构均指泄露仅限营销或非支付类资料，核心支付网络与用卡安全未受影响。 摩根大通发言人说，初步调查显示攻击者获取了供应商持有的部分营销数据，可能涉及客户姓名和电子邮件地址，银行将直接联系受影响客户。",
+          "tags": [
+            "世界格局",
+            "联合早报·国际"
+          ],
+          "importance": 2,
+          "source_name": "联合早报·国际",
+          "source_url": "https://www.zaobao.com.sg/news/world/story20261120-10028466",
+          "image_url": "assets/images/2026-11-20/d108d36106fd_fc0fa70f.jpg",
+          "published_at": "2026-11-20T12:00:00+00:00",
+          "published_label": "刚刚",
+          "verification_count": 3,
+          "verified_by": [
+            "联合早报·国际",
+            "财联社"
+          ],
+          "source_domain": "zaobao.com.sg",
+          "category_id": "world"
+        },
+        {
+          "id": "4dc0ac635fc7",
+          "title": "高市结束首次访华行程 未能与习近平会谈",
+          "summary": "【共同社深圳11月20日电】日本首相高市早苗19日结束了就任后的首次访华行程。在中国深圳访问期间，她与担任亚太经合组织（APEC）首脑会议主席的中国国家主席习近平握手并交谈，但未能…",
+          "detail": "【共同社深圳11月20日电】日本首相高市早苗19日结束了就任后的首次访华行程。在中国深圳访问期间，她与担任亚太经合组织（APEC）首脑会议主席的中国国家主席习近平握手并交谈，但未能举行双边会谈。高市之后召开记者会，就1972年《日中联合声明》强调了日方的立场未变。该声明写明，日本政府充分理解和尊重中方在台湾问题上的“一个中国”立场。 去年11月高市做出“台湾有事”相关国会答辩后，日中关系恶化，习近平会如何接待高市曾是焦点。高市18日与俄罗斯总统普京首次举行对话。这是日俄首脑自2019年9月以来再度面对面接触。 高市在记者会上称中国是“重要邻国”，表示“将全面推进战略互惠关系。",
+          "tags": [
+            "世界格局",
+            "共同社中文"
+          ],
+          "importance": 2,
+          "source_name": "共同社中文",
+          "source_url": "https://china.kyodonews.net/articles/-/18590",
+          "image_url": "assets/images/2026-11-20/4dc0ac635fc7_29965e2d.jpg",
+          "published_at": "2026-11-20T02:57:00+00:00",
+          "published_label": "3 小时前",
+          "verification_count": 3,
+          "verified_by": [
+            "中新网时政",
+            "人民网时政",
+            "共同社中文"
+          ],
+          "source_domain": "china.kyodonews.net",
+          "category_id": "world"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI 前沿",
+      "color": "#6d5ae0",
+      "description": "人工智能、大模型、机器人、AI 应用",
+      "events": [
+        {
+          "id": "287a309cfef5",
+          "title": "造就中国互联网黄金时代的VC，为什么消失了？",
+          "summary": "出钱的人变了，风险投资的玩法也跟着变了。",
+          "detail": "文 | 防冷涂的蜡 如果你关注过十几年前的互联网，大概率对这类新闻有印象：某某创业公司完成数千万美元A轮融资；某某平台获得红杉资本、IDG等机构投资；某某公司成立不过几年，估值已经超过10亿美元。 那时，融资几乎是中国互联网创业的标志性事件，也是普通人理解创业这件事的方式。 今天我们再打开科技媒体，会发现这类新闻并没有完全消失，但那种由互联网创业者、美元基金和一轮接一轮融资构成的创业叙事，已经明显退潮。一级市场仍然热闹，只是主角换成了AI、半导体、机器人和先进制造。 更有意思的是，钱并没有变少。",
+          "tags": [
+            "AI 前沿",
+            "钛媒体"
+          ],
+          "importance": 1,
+          "source_name": "钛媒体",
+          "source_url": "https://www.tmtpost.com/8212321.html",
+          "image_url": "assets/images/2026-11-20/287a309cfef5_f11ab8f3.png",
+          "published_at": "2026-11-20T04:32:00+00:00",
+          "published_label": "1 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "上海证券报",
+            "钛媒体"
+          ],
+          "source_domain": "tmtpost.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "ee20d5dd8263",
+          "title": "DeepSeek限额：免费用户成了AGI的“拦路虎”？",
+          "summary": "从抢用户到“赶”用户，AI行业变天了。",
+          "detail": "文 | 识礁Farsight “去别的地方玩，不要耽误AGI训练。” 这句针对DeepSeek的调侃，如今正变成现实。 近日，DeepSeek收紧了网页版和App免费用户的使用额度，超过7天不活跃的长对话无法继续使用，新对话单次输入的文字上限被压缩到4万字左右，连续使用约两小时，会触发“服务器繁忙，使用额度已达上限”提示。 一直以来，互联网产品的核心战略诉求就是事无巨细地满足用户的需求，借此俘获更多流量。DeepSeek的限额策略，背离了上述趋势，昭示出AI产品面临截然不同的挑战。",
+          "tags": [
+            "AI 前沿",
+            "钛媒体"
+          ],
+          "importance": 1,
+          "source_name": "钛媒体",
+          "source_url": "https://www.tmtpost.com/8212022.html",
+          "image_url": "assets/images/2026-11-20/ee20d5dd8263_7ad0a5e7.jpg",
+          "published_at": "2026-11-20T03:39:27+00:00",
+          "published_label": "2 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "东方财富研究中心",
+            "每日经济新闻",
+            "钛媒体"
+          ],
+          "source_domain": "tmtpost.com",
+          "category_id": "ai"
+        },
+        {
+          "id": "ad8a9f634660",
+          "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+          "summary": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
+          "detail": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六 商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一 今天，全球权威AI设计评测平台 Design Arena 发布图片榜单更新。商汤科技日日新 SenseNova U1 Pro 在图片生成（Image）与图片编辑（Image Editing）两大榜单中均登顶中国第一；全球位居第六，仅次于 OpenAI 的 GPT Image 2.x 系列不同模型。",
+          "tags": [
+            "AI 前沿",
+            "量子位"
+          ],
+          "importance": 1,
+          "source_name": "量子位",
+          "source_url": "https://www.qbitai.com/2026/11/511179.html",
+          "image_url": "assets/images/2026-11-20/ad8a9f634660_fedc79de.png",
+          "published_at": "2026-11-19T08:10:19+00:00",
+          "published_label": "22 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "IT之家",
+            "量子位"
+          ],
+          "source_domain": "qbitai.com",
+          "category_id": "ai"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "世界经济",
+      "color": "#0e8a5f",
+      "description": "市场、贸易、央行、产业动向",
+      "events": [
+        {
+          "id": "10814945619d",
+          "title": "大资金入场！宽基ETF再度爆量 创业板ETF易方达半日成交破百亿",
+          "summary": "11月20日早盘，A股延续弱势整理，沪指一度跌至3500.88点，全市场超4800股飘绿。 临近午盘，多只宽基ETF再度集体爆量， 创业板ETF易方达半日成交额达103亿元 ；",
+          "detail": "大资金入场！宽基ETF再度爆量 创业板ETF易方达半日成交破百亿 11月20日早盘，A股延续弱势整理，沪指一度跌至3500.88点，全市场超4800股飘绿。 临近午盘，多只宽基ETF再度集体爆量，创业板ETF易方达半日成交额达103亿元；沪深300ETF华泰柏瑞成交近70亿元，其中午盘前10分钟成交金额超30亿元；中证1000ETF南方13分钟内成交超22亿元，A500相关ETF亦明显放量。 此外，上午10:30左右，也有部分宽基ETF有集中放量表现。 就在昨日，共6只宽基ETF成交额突破百亿元，当日股票型ETF合计净流入463.7亿元。",
+          "tags": [
+            "世界经济",
+            "东方财富研究中心"
+          ],
+          "importance": 1,
+          "source_name": "东方财富研究中心",
+          "source_url": "http://finance.eastmoney.com/news/11822,202611203935972820.html",
+          "image_url": "assets/images/2026-11-20/10814945619d_70933e7c.jpg",
+          "published_at": "2026-11-20T04:08:01+00:00",
+          "published_label": "2 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "东方财富Choice数据",
+            "东方财富研究中心"
+          ],
+          "source_domain": "finance.eastmoney.com",
+          "category_id": "economy"
+        },
+        {
+          "id": "c5a9fd5e3bf1",
+          "title": "苹果组建AI智能体团队 macOS已为竞争对手设置软门槛",
+          "summary": "当地时间11月20日，科技记者古尔曼报道， 苹果 正自研 AI智能体 。 古尔曼报道 当地时间11月18日， 苹果 在官网发布的招聘信息披露了相关计划，其中一则招聘启事显示， 苹果…",
+          "detail": "当地时间11月20日，科技记者古尔曼报道，苹果正自研AI智能体。 古尔曼报道 当地时间11月18日，苹果在官网发布的招聘信息披露了相关计划，其中一则招聘启事显示，苹果正在招募AI智能体团队的领头人——一名高级工程经理（Senior Engineering Manager）作为团队高级负责人，岗位名称为“主动式智能体AI”（Agentic AI-Proactive）。 图源：苹果官网 苹果希望，其AI智能体能够代表用户编写代码、浏览网页、操作应用程序以及控制设备。",
+          "tags": [
+            "世界经济",
+            "财联社"
+          ],
+          "importance": 1,
+          "source_name": "财联社",
+          "source_url": "http://finance.eastmoney.com/news/1354,202611203935934749.html",
+          "image_url": "assets/images/2026-11-20/c5a9fd5e3bf1_baa9a81e.jpg",
+          "published_at": "2026-11-20T02:51:17+00:00",
+          "published_label": "3 小时前",
+          "verification_count": 2,
+          "verified_by": [
+            "IT之家",
+            "财联社"
+          ],
+          "source_domain": "finance.eastmoney.com",
+          "category_id": "economy"
+        }
+      ]
+    }
+  ]
+}
